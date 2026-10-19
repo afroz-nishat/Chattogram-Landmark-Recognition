@@ -1,0 +1,533 @@
+{
+  "landmark": "Shoilo_Propat",
+  "district": "Bandarban",
+  "queries": [
+    {
+      "query": "Shoilo Propat",
+      "total_hits": 0,
+      "retrieved": 5
+    },
+    {
+      "query": "Shoilo Propat Bandarban",
+      "total_hits": 0,
+      "retrieved": 5
+    },
+    {
+      "query": "Shoilo Propat Bangladesh",
+      "total_hits": 0,
+      "retrieved": 1
+    }
+  ],
+  "unique_files_retrieved": 5,
+  "files": [
+    {
+      "pageid": 7559622,
+      "ns": 6,
+      "title": "File:Shoilo Propat Bandarban.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 2110032,
+          "width": 2048,
+          "height": 1536,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Shoilo_Propat_Bandarban.jpg/1280px-Shoilo_Propat_Bandarban.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Shoilo_Propat_Bandarban.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Shoilo_Propat_Bandarban.jpg/1280px-Shoilo_Propat_Bandarban.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Shoilo_Propat_Bandarban.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Shoilo_Propat_Bandarban.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shoilo_Propat_Bandarban.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7559622",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2009-08-14 13:46:16",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Shoilo Propat Bandarban",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Taken with Canon Digital IXUS 70|Shaila Prapat|License migration redundant|Self-published work",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Shoilo Propat, Bandarban",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sabilaenun\" title=\"User:Sabilaenun\">Sabilaenun</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 31633347,
+      "ns": 6,
+      "title": "File:Stairs down to the Shoilo Propat (3641277614).jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 7381374,
+          "width": 4272,
+          "height": 2848,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Stairs_down_to_the_Shoilo_Propat_%283641277614%29.jpg/1280px-Stairs_down_to_the_Shoilo_Propat_%283641277614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 800,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Stairs_down_to_the_Shoilo_Propat_%283641277614%29.jpg/3840px-Stairs_down_to_the_Shoilo_Propat_%283641277614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Stairs_down_to_the_Shoilo_Propat_%283641277614%29.jpg/1280px-Stairs_down_to_the_Shoilo_Propat_%283641277614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 800,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Stairs_down_to_the_Shoilo_Propat_%283641277614%29.jpg/3840px-Stairs_down_to_the_Shoilo_Propat_%283641277614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stairs_down_to_the_Shoilo_Propat_%283641277614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stairs_down_to_the_Shoilo_Propat_(3641277614).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31633347",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-03-16 07:42:50",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Stairs down to the Shoilo Propat (3641277614)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon EOS 450D|Shaila Prapat|Flickr images reviewed by File Upload Bot (Magnus Manske)|Photographs by Faisal Akram",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Stairs down to the Shoilo Propat",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2009-04-09 09:14",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/faisal_akram/3641277614/\">Stairs down to the Shoilo Propat</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/72847119@N00\">Faisal Akram</a> from Dhaka, Bangladesh",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 36010090,
+      "ns": 6,
+      "title": "File:Shoilo Propat Bandarban.JPG",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 791937,
+          "width": 1000,
+          "height": 750,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Shoilo_Propat_Bandarban.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Shoilo_Propat_Bandarban.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Shoilo_Propat_Bandarban.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shoilo_Propat_Bandarban.JPG",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36010090",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-10-09 16:20:33",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Shoilo Propat Bandarban",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Taken with Canon PowerShot SX500 IS|Shaila Prapat|License migration redundant|Self-published work",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Shoilo Propat, this scenic water fall is a popular destination for the tourists",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Khan-Tanvir&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Khan-Tanvir (page does not exist)\">Khan-Tanvir</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 168169216,
+      "ns": 6,
+      "title": "File:OJ C 234 of 2016 - DE German.pdf",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 1916066,
+          "width": 1239,
+          "height": 1752,
+          "pagecount": 68,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/OJ_C_234_of_2016_-_DE_German.pdf/page1-960px-OJ_C_234_of_2016_-_DE_German.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1697,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/OJ_C_234_of_2016_-_DE_German.pdf/page1-960px-OJ_C_234_of_2016_-_DE_German.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1697
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/OJ_C_234_of_2016_-_DE_German.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:OJ_C_234_of_2016_-_DE_German.pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168169216",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2025-06-21 08:55:25",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "OJ C 234 of 2016 - DE German",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "2016-06-28|Attribution only license|Uploaded with OpenRefine|PD-EUGov|2016 texts|PD-EdictGov|European Union license|German-language PDF files|Official Journal of the European Union files uploaded by EUResourcesBot|Official Journal of the European Union 2016, C Series",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Official Journal of the European Union - C 234 of 28 June 2016 - German edition <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OJ_C_234_of_2016_-_DE_German.pdf#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Published on 28 June 2016",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a href=\"https://en.wikipedia.org/wiki/en:EUR-Lex\" class=\"extiw\" title=\"w:en:EUR-Lex\"><span title=\"service providing legal texts of the European Union\">EUR-Lex</span></a> (<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=OJ:C:2016:234:TOC\">[1]</a>, <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:C:2016:234:FULL\">[2]</a>)",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"https://en.wikipedia.org/wiki/en:Publications_Office_of_the_European_Union\" class=\"extiw\" title=\"w:en:Publications Office of the European Union\"><span title=\"academic publisher\">Publications Office of the European Union</span></a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 168169234,
+      "ns": 6,
+      "title": "File:OJ C 234 of 2016 - LV Latvian.pdf",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 1839397,
+          "width": 1239,
+          "height": 1752,
+          "pagecount": 68,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/OJ_C_234_of_2016_-_LV_Latvian.pdf/page1-960px-OJ_C_234_of_2016_-_LV_Latvian.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1697,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/OJ_C_234_of_2016_-_LV_Latvian.pdf/page1-960px-OJ_C_234_of_2016_-_LV_Latvian.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1697
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/OJ_C_234_of_2016_-_LV_Latvian.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:OJ_C_234_of_2016_-_LV_Latvian.pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168169234",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2025-06-21 08:55:49",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "OJ C 234 of 2016 - LV Latvian",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "2016-06-28|Attribution only license|Uploaded with OpenRefine|PD-EUGov|2016 texts|PD-EdictGov|European Union license|Latvian-language PDF files|Official Journal of the European Union files uploaded by EUResourcesBot|Official Journal of the European Union 2016, C Series",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Official Journal of the European Union - C 234 of 28 June 2016 - Latvian edition <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OJ_C_234_of_2016_-_LV_Latvian.pdf#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Published on 28 June 2016",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a href=\"https://en.wikipedia.org/wiki/en:EUR-Lex\" class=\"extiw\" title=\"w:en:EUR-Lex\"><span title=\"service providing legal texts of the European Union\">EUR-Lex</span></a> (<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=OJ:C:2016:234:TOC\">[1]</a>, <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://eur-lex.europa.eu/legal-content/LV/TXT/PDF/?uri=OJ:C:2016:234:FULL\">[2]</a>)",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"https://en.wikipedia.org/wiki/en:Publications_Office_of_the_European_Union\" class=\"extiw\" title=\"w:en:Publications Office of the European Union\"><span title=\"academic publisher\">Publications Office of the European Union</span></a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    }
+  ]
+}

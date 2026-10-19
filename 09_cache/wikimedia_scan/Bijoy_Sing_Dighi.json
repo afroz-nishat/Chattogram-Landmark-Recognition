@@ -1,0 +1,264 @@
+{
+  "landmark": "Bijoy_Sing_Dighi",
+  "district": "Feni",
+  "queries": [
+    {
+      "query": "Bijoy Sing Dighi",
+      "total_hits": 0,
+      "retrieved": 0
+    },
+    {
+      "query": "Bijoy Singh Dighi Feni",
+      "total_hits": 0,
+      "retrieved": 0
+    },
+    {
+      "query": "Bijoy Singh Dighi Bangladesh",
+      "total_hits": 0,
+      "retrieved": 2
+    }
+  ],
+  "unique_files_retrieved": 2,
+  "files": [
+    {
+      "pageid": 37449250,
+      "ns": 6,
+      "title": "File:ফেনীর বিজয় সিংহ দীঘি এলাকা.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 899772,
+          "width": 2880,
+          "height": 1728,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg/1280px-%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 720,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg/1280px-%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 720,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37449250",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-12-23 04:51:56",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "ফেনীর বিজয় সিংহ দীঘি এলাকা",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Bijoy Singh Dighi|Self-published work|Images with extracted images|Images from Bangla Wikipedia Photography Contest 2014|Files with coordinates missing SDC location of creation|Bangladesh photographs taken on 2014-07-29|Files from competitions organized by Wikimedia Bangladesh|Uploaded via Campaign:bwpc",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "23.002930",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "91.379203",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "ফেনীর বিজয় সিংহ দীঘি এলাকা",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 29 July 2014, 16:21:18",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%E0%A6%93%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%97%E0%A6%A8%E0%A7%80&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ওসমানগনী (page does not exist)\">ওসমানগনী</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 133353332,
+      "ns": 6,
+      "title": "File:ফেনীর বিজয় সিংহ দীঘি এলাকা (cropped).jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 330224,
+          "width": 2880,
+          "height": 411,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE_%28cropped%29.jpg/1280px-%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 171,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/0/09/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE_%28cropped%29.jpg/1280px-%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 171,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/09/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BF_%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE_(cropped).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133353332",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2023-06-20 15:59:53",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "ফেনীর বিজয় সিংহ দীঘি এলাকা (cropped)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Bijoy Singh Dighi|Self-published work|Extracted images|Wikivoyage banners of Bangladesh|Images from Bangla Wikipedia Photography Contest 2014|Files with coordinates missing SDC location of creation|Bangladesh photographs taken on 2014-07-29|Files from competitions organized by Wikimedia Bangladesh|Uploaded via Campaign:bwpc",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "23.002930",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "91.379203",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "ফেনীর বিজয় সিংহ দীঘি এলাকা",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 29 July 2014, 16:21:18",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%E0%A6%93%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%97%E0%A6%A8%E0%A7%80&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ওসমানগনী (page does not exist)\">ওসমানগনী</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}

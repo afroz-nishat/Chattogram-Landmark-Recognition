@@ -1,0 +1,683 @@
+{
+  "Patenga_Beach": {
+    "district": "Chattogram",
+    "queries": [
+      "Patenga Beach Chittagong",
+      "Patenga Beach Chattogram",
+      "Patenga Bangladesh"
+    ]
+  },
+  "Foys_Lake": {
+    "district": "Chattogram",
+    "queries": [
+      "Foys Lake Chittagong",
+      "Foy's Lake Chittagong",
+      "Foys Lake Chattogram"
+    ]
+  },
+  "Parki_Beach": {
+    "district": "Chattogram",
+    "queries": [
+      "Parki Beach Chittagong",
+      "Parki Beach Anwara",
+      "Parki Sea Beach Bangladesh"
+    ]
+  },
+  "Chandranath_Hill": {
+    "district": "Chattogram",
+    "queries": [
+      "Chandranath Hill Sitakunda",
+      "Chandranath Hill Chittagong",
+      "Chandranath Bangladesh"
+    ]
+  },
+  "Chandranath_Temple": {
+    "district": "Chattogram",
+    "queries": [
+      "Chandranath Temple Sitakunda",
+      "Chandranath Temple Bangladesh",
+      "Chandranath Mandir Sitakunda"
+    ]
+  },
+  "Sitakunda_Eco_Park": {
+    "district": "Chattogram",
+    "queries": [
+      "Sitakunda Eco Park",
+      "Sitakunda Ecopark Bangladesh",
+      "Sitakunda Eco Park Chittagong"
+    ]
+  },
+  "Guliakhali_Beach": {
+    "district": "Chattogram",
+    "queries": [
+      "Guliakhali Beach",
+      "Guliakhali Sea Beach",
+      "Guliakhali Chittagong"
+    ]
+  },
+  "Banshbaria_Beach": {
+    "district": "Chattogram",
+    "queries": [
+      "Banshbaria Beach",
+      "Banshbaria Sea Beach",
+      "Banshbaria Chittagong"
+    ]
+  },
+  "Kalurghat_Bridge": {
+    "district": "Chattogram",
+    "queries": [
+      "Kalurghat Bridge",
+      "Kalurghat Railway Bridge",
+      "Kalurghat Bridge Chittagong",
+      "Kalurghat Bangladesh"
+    ]
+  },
+  "Shah_Amanat_Bridge": {
+    "district": "Chattogram",
+    "queries": [
+      "Shah Amanat Bridge",
+      "Shah Amanat Bridge Chittagong",
+      "Shah Amanat Bridge Bangladesh"
+    ]
+  },
+  "Central_Railway_Building": {
+    "district": "Chattogram",
+    "queries": [
+      "Central Railway Building Chittagong",
+      "Central Railway Building Chattogram",
+      "Chittagong Central Railway Building"
+    ]
+  },
+  "Chattogram_Court_Building": {
+    "district": "Chattogram",
+    "queries": [
+      "Chittagong Court Building",
+      "Chattogram Court Building",
+      "Court Building Chittagong Bangladesh"
+    ]
+  },
+  "Cheragi_Pahar": {
+    "district": "Chattogram",
+    "queries": [
+      "Cheragi Pahar",
+      "Cheragi Pahar Chittagong",
+      "Cheragi Pahar Chattogram"
+    ]
+  },
+  "Bayazid_Bostami_Shrine": {
+    "district": "Chattogram",
+    "queries": [
+      "Bayazid Bostami Shrine",
+      "Bayazid Bostami Mazar Chittagong",
+      "Bayazid Bostami Chattogram"
+    ]
+  },
+  "Chandanpura_Mosque": {
+    "district": "Chattogram",
+    "queries": [
+      "Chandanpura Mosque",
+      "Chandanpura Masjid Chittagong",
+      "Chandanpura Mosque Bangladesh"
+    ]
+  },
+  "Jamboree_Park": {
+    "district": "Chattogram",
+    "queries": [
+      "Jamboree Park Chittagong",
+      "Jamboree Park Chattogram",
+      "Jamboree Park Bangladesh"
+    ]
+  },
+  "Ethnological_Museum": {
+    "district": "Chattogram",
+    "queries": [
+      "Ethnological Museum Chittagong",
+      "Ethnological Museum Chattogram",
+      "Bangladesh Ethnological Museum"
+    ]
+  },
+  "Chattogram_War_Cemetery": {
+    "district": "Chattogram",
+    "queries": [
+      "Chittagong War Cemetery",
+      "Chattogram War Cemetery",
+      "War Cemetery Chittagong Bangladesh"
+    ]
+  },
+  "Batali_Hill": {
+    "district": "Chattogram",
+    "queries": [
+      "Batali Hill Chittagong",
+      "Batali Hill Chattogram",
+      "Batali Hill Bangladesh"
+    ]
+  },
+  "Chattogram_Railway_Station": {
+    "district": "Chattogram",
+    "queries": [
+      "Chittagong Railway Station",
+      "Chattogram Railway Station",
+      "Chittagong Railway Station Bangladesh"
+    ]
+  },
+  "Chattogram_Zoo": {
+    "district": "Chattogram",
+    "queries": [
+      "Chittagong Zoo",
+      "Chattogram Zoo",
+      "Chittagong Zoological Park"
+    ]
+  },
+  "Anderkilla_Shahi_Jame_Mosque": {
+    "district": "Chattogram",
+    "queries": [
+      "Anderkilla Shahi Jame Mosque",
+      "Anderkilla Mosque Chittagong",
+      "Anderkilla Shahi Jame Masjid"
+    ]
+  },
+  "Chattogram_Central_Shaheed_Minar": {
+    "district": "Chattogram",
+    "queries": [
+      "Chittagong Shaheed Minar",
+      "Chattogram Shaheed Minar",
+      "Chittagong Central Shaheed Minar"
+    ]
+  },
+  "Coxs_Bazar_Beach": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Cox's Bazar Beach",
+      "Coxs Bazar Sea Beach",
+      "Cox's Bazar Bangladesh"
+    ]
+  },
+  "Inani_Beach": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Inani Beach",
+      "Inani Sea Beach",
+      "Inani Beach Cox's Bazar"
+    ]
+  },
+  "Himchari": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Himchari National Park",
+      "Himchari Cox's Bazar",
+      "Himchari Bangladesh"
+    ]
+  },
+  "Maheshkhali": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Maheshkhali Island",
+      "Maheshkhali Cox's Bazar",
+      "Maheshkhali Bangladesh"
+    ]
+  },
+  "Adinath_Temple": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Adinath Temple Maheshkhali",
+      "Adinath Mandir Maheshkhali",
+      "Adinath Temple Bangladesh"
+    ]
+  },
+  "Sonadia_Island": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Sonadia Island",
+      "Sonadia Island Bangladesh",
+      "Sonadia Cox's Bazar"
+    ]
+  },
+  "Ramu_Buddhist_Temples": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Ramu Buddhist Temple",
+      "Ramu Buddhist Temples Bangladesh",
+      "Ramu Buddhist temple Cox's Bazar"
+    ]
+  },
+  "Dulahazara_Safari_Park": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Dulahazara Safari Park",
+      "Dulahazara Safari Park Bangladesh",
+      "Dulahazara Safari Park Cox's Bazar"
+    ]
+  },
+  "Kutubdia_Island": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Kutubdia Island",
+      "Kutubdia Bangladesh",
+      "Kutubdia Island Cox's Bazar"
+    ]
+  },
+  "Kutubdia_Lighthouse": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Kutubdia Lighthouse",
+      "Kutubdia Lighthouse Bangladesh",
+      "Kutubdia Light House"
+    ]
+  },
+  "Radiant_Fish_World": {
+    "district": "Coxs_Bazar",
+    "queries": [
+      "Radiant Fish World Cox's Bazar",
+      "Radiant Fish World Bangladesh",
+      "Radiant Fish World"
+    ]
+  },
+  "Nilgiri": {
+    "district": "Bandarban",
+    "queries": [
+      "Nilgiri Bandarban",
+      "Nilgiri Tourist Center Bandarban",
+      "Nilgiri Bangladesh"
+    ]
+  },
+  "Nilachal": {
+    "district": "Bandarban",
+    "queries": [
+      "Nilachal Bandarban",
+      "Nilachal Tourist Center",
+      "Nilachal Bangladesh"
+    ]
+  },
+  "Boga_Lake": {
+    "district": "Bandarban",
+    "queries": [
+      "Boga Lake Bandarban",
+      "Boga Lake Bangladesh",
+      "Bogalake Bandarban"
+    ]
+  },
+  "Nafakhum_Waterfall": {
+    "district": "Bandarban",
+    "queries": [
+      "Nafakhum Waterfall",
+      "Nafakhum Bandarban",
+      "Nafakhum Bangladesh"
+    ]
+  },
+  "Amiakhum": {
+    "district": "Bandarban",
+    "queries": [
+      "Amiakhum Waterfall",
+      "Amiakhum Bandarban",
+      "Amiakhum Bangladesh"
+    ]
+  },
+  "Keokradong": {
+    "district": "Bandarban",
+    "queries": [
+      "Keokradong",
+      "Keokradong Bandarban",
+      "Keokradong Bangladesh"
+    ]
+  },
+  "Chimbuk_Hill": {
+    "district": "Bandarban",
+    "queries": [
+      "Chimbuk Hill",
+      "Chimbuk Bandarban",
+      "Chimbuk Hill Bangladesh"
+    ]
+  },
+  "Meghla_Tourist_Complex": {
+    "district": "Bandarban",
+    "queries": [
+      "Meghla Tourist Complex Bandarban",
+      "Meghla Bandarban",
+      "Meghla Tourist Center"
+    ]
+  },
+  "Shoilo_Propat": {
+    "district": "Bandarban",
+    "queries": [
+      "Shoilo Propat",
+      "Shoilo Propat Bandarban",
+      "Shoilo Propat Bangladesh"
+    ]
+  },
+  "Golden_Temple_Bandarban": {
+    "district": "Bandarban",
+    "queries": [
+      "Golden Temple Bandarban",
+      "Buddha Dhatu Jadi",
+      "Bandarban Golden Temple"
+    ]
+  },
+  "Kaptai_Lake": {
+    "district": "Rangamati",
+    "queries": [
+      "Kaptai Lake",
+      "Kaptai Lake Rangamati",
+      "Kaptai Lake Bangladesh"
+    ]
+  },
+  "Rangamati_Hanging_Bridge": {
+    "district": "Rangamati",
+    "queries": [
+      "Rangamati Hanging Bridge",
+      "Rangamati Suspension Bridge",
+      "Tourist Hanging Bridge Rangamati"
+    ]
+  },
+  "Shuvolong_Waterfall": {
+    "district": "Rangamati",
+    "queries": [
+      "Shuvolong Waterfall",
+      "Shuvolong Rangamati",
+      "Shuvolong Bangladesh"
+    ]
+  },
+  "Rajban_Vihara": {
+    "district": "Rangamati",
+    "queries": [
+      "Rajban Vihara",
+      "Rajban Bihar Rangamati",
+      "Rajban Buddhist Temple"
+    ]
+  },
+  "Wagga_Point": {
+    "district": "Rangamati",
+    "queries": [
+      "Wagga Rangamati",
+      "Wagga Tourist Spot",
+      "Wagga Point Bangladesh"
+    ]
+  },
+  "Kaptai_Dam": {
+    "district": "Rangamati",
+    "queries": [
+      "Kaptai Dam",
+      "Kaptai Dam Bangladesh",
+      "Kaptai Hydroelectric Dam"
+    ]
+  },
+  "Peda_Ting_Ting": {
+    "district": "Rangamati",
+    "queries": [
+      "Peda Ting Ting Rangamati",
+      "Peda Ting Ting",
+      "Peda Ting Ting Bangladesh"
+    ]
+  },
+  "Rangamati_Jum_Museum": {
+    "district": "Rangamati",
+    "queries": [
+      "Jum Museum Rangamati",
+      "Rangamati Tribal Museum",
+      "Rangamati Jum Museum"
+    ]
+  },
+  "Alutila_Cave": {
+    "district": "Khagrachhari",
+    "queries": [
+      "Alutila Cave",
+      "Alutila Cave Khagrachhari",
+      "Alutila Bangladesh"
+    ]
+  },
+  "Richhang_Waterfall": {
+    "district": "Khagrachhari",
+    "queries": [
+      "Richhang Waterfall",
+      "Richhang Jharna Khagrachhari",
+      "Richhang Bangladesh"
+    ]
+  },
+  "Nuhang_Jharna": {
+    "district": "Khagrachhari",
+    "queries": [
+      "Nuhang Jharna",
+      "Nuhang Waterfall Khagrachhari",
+      "Nuhang Bangladesh"
+    ]
+  },
+  "Risang_Waterfall": {
+    "district": "Khagrachhari",
+    "queries": [
+      "Risang Waterfall",
+      "Risang Jharna",
+      "Risang Khagrachhari"
+    ]
+  },
+  "Alutila_Tunnel": {
+    "district": "Khagrachhari",
+    "queries": [
+      "Alutila Tunnel",
+      "Alutila Tunnel Khagrachhari",
+      "Alutila Tunnel Bangladesh"
+    ]
+  },
+  "Mong_King_Palace": {
+    "district": "Khagrachhari",
+    "queries": [
+      "Mong King Palace",
+      "Mong Circle Palace Khagrachhari",
+      "Mong Raja Palace"
+    ]
+  },
+  "Muhuri_Project": {
+    "district": "Feni",
+    "queries": [
+      "Muhuri Project Feni",
+      "Muhuri Project Bangladesh",
+      "Muhuri Dam Feni"
+    ]
+  },
+  "Bijoy_Sing_Dighi": {
+    "district": "Feni",
+    "queries": [
+      "Bijoy Sing Dighi",
+      "Bijoy Singh Dighi Feni",
+      "Bijoy Singh Dighi Bangladesh"
+    ]
+  },
+  "Shamsher_Gazi_Mosque": {
+    "district": "Feni",
+    "queries": [
+      "Shamsher Gazi Mosque",
+      "Shamsher Gazi Masjid Feni",
+      "Shamsher Gazi Bangladesh"
+    ]
+  },
+  "Rajajhir_Dighi": {
+    "district": "Feni",
+    "queries": [
+      "Rajajhir Dighi Feni",
+      "Rajajhir Dighi Bangladesh",
+      "Rajajhir Dighi"
+    ]
+  },
+  "Nijhum_Dwip": {
+    "district": "Noakhali",
+    "queries": [
+      "Nijhum Dwip",
+      "Nijhum Island Bangladesh",
+      "Nijhum Dwip Noakhali"
+    ]
+  },
+  "Bajra_Shahi_Mosque": {
+    "district": "Noakhali",
+    "queries": [
+      "Bajra Shahi Mosque",
+      "Bajra Mosque Noakhali",
+      "Bajra Shahi Masjid"
+    ]
+  },
+  "Noakhali_Jubilee_Park": {
+    "district": "Noakhali",
+    "queries": [
+      "Noakhali Jubilee Park",
+      "Jubilee Park Noakhali",
+      "Noakhali Jubilee Park Bangladesh"
+    ]
+  },
+  "Dalal_Bazar_Jamindar_Bari": {
+    "district": "Lakshmipur",
+    "queries": [
+      "Dalal Bazar Zamindar Bari",
+      "Dalal Bazar Jamindar Bari",
+      "Dalal Bazar Lakshmipur"
+    ]
+  },
+  "Kamalnagar_Coast": {
+    "district": "Lakshmipur",
+    "queries": [
+      "Kamalnagar Lakshmipur",
+      "Kamalnagar coast Bangladesh",
+      "Kamalnagar river Lakshmipur"
+    ]
+  },
+  "Ramgati_Beach": {
+    "district": "Lakshmipur",
+    "queries": [
+      "Ramgati Beach",
+      "Ramgati Lakshmipur",
+      "Ramgati Bangladesh"
+    ]
+  },
+  "Shalban_Vihara": {
+    "district": "Cumilla",
+    "queries": [
+      "Shalban Vihara",
+      "Shalban Bihar Mainamati",
+      "Shalban Vihara Cumilla"
+    ]
+  },
+  "Mainamati_Museum": {
+    "district": "Cumilla",
+    "queries": [
+      "Mainamati Museum",
+      "Mainamati Archaeological Museum",
+      "Mainamati Museum Cumilla"
+    ]
+  },
+  "Itakhola_Mura": {
+    "district": "Cumilla",
+    "queries": [
+      "Itakhola Mura",
+      "Itakhola Mura Mainamati",
+      "Itakhola Mura Cumilla"
+    ]
+  },
+  "Rupban_Mura": {
+    "district": "Cumilla",
+    "queries": [
+      "Rupban Mura",
+      "Rupban Mura Mainamati",
+      "Rupban Mura Cumilla"
+    ]
+  },
+  "Ananda_Vihara": {
+    "district": "Cumilla",
+    "queries": [
+      "Ananda Vihara Mainamati",
+      "Ananda Bihar Cumilla",
+      "Ananda Vihara Bangladesh"
+    ]
+  },
+  "Dharmasagar_Dighi": {
+    "district": "Cumilla",
+    "queries": [
+      "Dharmasagar Dighi",
+      "Dharmasagar Cumilla",
+      "Dharmasagar Lake Cumilla"
+    ]
+  },
+  "Comilla_Cantonment_War_Cemetery": {
+    "district": "Cumilla",
+    "queries": [
+      "Comilla War Cemetery",
+      "Cumilla War Cemetery",
+      "Mymensingh War Cemetery Comilla"
+    ]
+  },
+  "Lalmai_Hills": {
+    "district": "Cumilla",
+    "queries": [
+      "Lalmai Hills",
+      "Lalmai Hill Cumilla",
+      "Lalmai Bangladesh"
+    ]
+  },
+  "Three_Rivers_Mouth": {
+    "district": "Chandpur",
+    "queries": [
+      "Three Rivers Mouth Chandpur",
+      "Mohanay Chandpur",
+      "Chandpur Three Rivers"
+    ]
+  },
+  "Chandpur_Boro_Station": {
+    "district": "Chandpur",
+    "queries": [
+      "Chandpur Boro Station",
+      "Chandpur Railway Station",
+      "Chandpur Station Bangladesh"
+    ]
+  },
+  "Rupsha_Jamidar_Bari": {
+    "district": "Chandpur",
+    "queries": [
+      "Rupsha Zamindar Bari Chandpur",
+      "Rupsha Jamidar Bari",
+      "Rupsha Chandpur"
+    ]
+  },
+  "Chandpur_Stadium": {
+    "district": "Chandpur",
+    "queries": [
+      "Chandpur Stadium",
+      "Chandpur Stadium Bangladesh",
+      "Chandpur District Stadium"
+    ]
+  },
+  "Anderson_Canal": {
+    "district": "Brahmanbaria",
+    "queries": [
+      "Anderson Canal Brahmanbaria",
+      "Anderson Canal Bangladesh",
+      "Anderson Canal"
+    ]
+  },
+  "Haripur_Barendra_Bari": {
+    "district": "Brahmanbaria",
+    "queries": [
+      "Haripur Barendra Bari",
+      "Haripur Zamindar Bari Brahmanbaria",
+      "Haripur Bangladesh palace"
+    ]
+  },
+  "Arifail_Mosque": {
+    "district": "Brahmanbaria",
+    "queries": [
+      "Arifail Mosque",
+      "Arifail Jame Mosque",
+      "Arifail Mosque Brahmanbaria"
+    ]
+  },
+  "Uttara_Amar_Dham": {
+    "district": "Brahmanbaria",
+    "queries": [
+      "Uttara Amar Dham",
+      "Uttara Amar Dham Brahmanbaria",
+      "Amar Dham Bangladesh"
+    ]
+  },
+  "Titas_River": {
+    "district": "Brahmanbaria",
+    "queries": [
+      "Titas River Brahmanbaria",
+      "Titas River Bangladesh",
+      "Titas River"
+    ]
+  }
+}

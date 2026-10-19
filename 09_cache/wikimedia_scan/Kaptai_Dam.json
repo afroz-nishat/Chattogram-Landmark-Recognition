@@ -1,0 +1,2386 @@
+{
+  "landmark": "Kaptai_Dam",
+  "district": "Rangamati",
+  "queries": [
+    {
+      "query": "Kaptai Dam",
+      "total_hits": 0,
+      "retrieved": 21
+    },
+    {
+      "query": "Kaptai Dam Bangladesh",
+      "total_hits": 0,
+      "retrieved": 19
+    },
+    {
+      "query": "Kaptai Hydroelectric Dam",
+      "total_hits": 0,
+      "retrieved": 1
+    }
+  ],
+  "unique_files_retrieved": 21,
+  "files": [
+    {
+      "pageid": 7816392,
+      "ns": 6,
+      "title": "File:Kapatailake.jpg",
+      "index": 19,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 34960,
+          "width": 604,
+          "height": 453,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kapatailake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kapatailake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kapatailake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kapatailake.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7816392",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2009-09-15 07:59:59",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kapatailake",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Kaptai Lake|Self-published work|PD-self",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "A View Of Kaptai lake.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2008-12-02",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Souvik.arko&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Souvik.arko (page does not exist)\">Souvik.arko</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 11541437,
+      "ns": 6,
+      "title": "File:Kaptai Dam.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 265641,
+          "width": 1632,
+          "height": 1224,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Kaptai_Dam.jpg/1280px-Kaptai_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kaptai_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Kaptai_Dam.jpg/1280px-Kaptai_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kaptai_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kaptai_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Dam.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11541437",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2010-09-20 06:44:41",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Dam",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Taken with Sony Ericsson W810|License migration not eligible|Kaptai Dam|Items with VRTS permission confirmed",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Kaptai Dam in Bangladesh",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2009-01-09",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Author's email",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Shuvro",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2010092010002933 2%3D2010092010002933\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2010092010002933\" class=\"extiw\" title=\"ticket:2010092010002933\">ticket #2010092010002933</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2010092010002933\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2010092010002933</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222010092010002933%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2010092010002933\"></span></td></tr></tbody></table>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "GFDL",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "GNU Free Documentation License",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://www.gnu.org/copyleft/fdl.html",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 33778066,
+      "ns": 6,
+      "title": "File:Kaptai Dam 1965.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 107446,
+          "width": 800,
+          "height": 635,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kaptai_Dam_1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1200,
+          "thumbheight": 953,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kaptai_Dam_1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 953
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kaptai_Dam_1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Dam_1965.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33778066",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-07-06 06:43:54",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Dam 1965",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Black and white photographs|Kaptai Dam|FoP-Bangladesh",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Kaptai Hydro Power Plant taken 1965.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1965",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Kaptai Power Plant Archive",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Govt. Official",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "According to Sec. 72 of the \"2000 Copyright Act of Bangladesh\", the following acts shall not constitute infringement of copyright, namely:\n<dl><dd><i>(19) the making or publishing of a painting, drawing, engraving or photograph of architecture or the display of a work of architecture;</i></dd>\n<dd><i>(20) the making or publishing of painting, drawing, engraving or photograph of a sculpture or other artistic work falling under section 36(c) </i>(enumerated as \"other works of artistic craftsmanship\" under Sec. 2, \"Definitions\")<i>, if such work is permanently situated in a public place or any premises to which the public has access;</i></dd>\n<dd><i>(21) the inclusion in a cinematograph film of –</i>\n<dl><dd><i>(i) any artistic work permanently situated in a public place or any premises to which the public has access; or </i></dd>\n<dd><i>(ii) any other artistic work, if such inclusion is only by way of background or is otherwise incidental to the principal matters represented in the film;[...]</i></dd></dl></dd></dl>\n<ul><li><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:ISO_639_Icon_en.svg\" class=\"mw-file-description\" title=\"English\"><img alt=\"English\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/40px-ISO_639_Icon_en.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"30\" height=\"14\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ISO_639_Icon_en.svg/60px-ISO_639_Icon_en.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"400\" data-file-height=\"180\"></a></span> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:The_Copyright_Act,_2000_-_Translation_in_English.pdf\" href=\"https://commons.wikimedia.org/wiki/File:The_Copyright_Act,_2000_-_Translation_in_English.pdf\">Copyright law in Bangladesh</a></li></ul>\nSee <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/COM:FOP_Bangladesh\" title=\"Special:MyLanguage/COM:FOP Bangladesh\">COM:FOP Bangladesh</a> for more information.",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.5",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.5",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.5",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.5",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 36413240,
+      "ns": 6,
+      "title": "File:কাপ্তাই হ্রদ বাংলাদেশের দক্ষিণ-পূর্বাঞ্ছলের মানুষ সৃষ্ট একটি কৃত্রিম হ্রদ.jpg",
+      "index": 17,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 1427993,
+          "width": 2400,
+          "height": 1600,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%87_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9B%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7_%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F_%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF_%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 800,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%87_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9B%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7_%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F_%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF_%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%87_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9B%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7_%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F_%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF_%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 800,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%87_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9B%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7_%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F_%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF_%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%87_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9B%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7_%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F_%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF_%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%87_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9B%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7_%E0%A6%B8%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F_%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF_%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE_%E0%A6%B9%E0%A7%8D%E0%A6%B0%E0%A6%A6.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36413240",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-10-26 18:13:33",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "কাপ্তাই হ্রদ বাংলাদেশের দক্ষিণ-পূর্বাঞ্ছলের মানুষ সৃষ্ট একটি কৃত্রিম হ্রদ",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon EOS 1100D|Kaptai Lake|Self-published work|Images from Bangla Wikipedia Photography Contest 2014|Bangladesh photographs taken on 2014-05-13|Files from competitions organized by Wikimedia Bangladesh|Uploaded via Campaign:bwpc",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Kaptai Lake, man made lake in south-eastern Bangladesh, The lake was created as a result of building the Kaptai Dam on the Karnaphuli River, as part of the Karnaphuli Hydro-electric project. 54,000 acres (220 km2) of farmland in the Rangamati District went under water and created the lake.\n<p>Kaptai Lake, Rangamati, Bangladesh\n</p>\n13-May-2014",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 13 May 2014, 10:21:19",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mohammad_Rafi_Saad&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mohammad Rafi Saad (page does not exist)\">Mohammad Rafi Saad</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 37959448,
+      "ns": 6,
+      "title": "File:Men working on the Karnafuli Dam Project..jpg",
+      "index": 7,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 245441,
+          "width": 852,
+          "height": 1280,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Men_working_on_the_Karnafuli_Dam_Project..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1200,
+          "thumbheight": 1803,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Men_working_on_the_Karnafuli_Dam_Project..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1803
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Men_working_on_the_Karnafuli_Dam_Project..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Men_working_on_the_Karnafuli_Dam_Project..jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37959448",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2015-01-30 07:05:51",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Men working on the Karnafuli Dam Project.",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-Bangladesh|Kaptai Dam|Men at work in Bangladesh|PD-old missing SDC copyright status|1957 in Chittagong",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Men working on the Karnafuli Dam Project.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1957-11",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.art.com/products/p14814730-sa-i3067748/john-dominis-men-working-on-the-karnafuli-dam-project.htm?rfid=784762\">LIFE Magazine.</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "John Dominis",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 42686301,
+      "ns": 6,
+      "title": "File:Kaptai Lake (19833365911).jpg",
+      "index": 11,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 1251278,
+          "width": 2048,
+          "height": 1367,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kaptai_Lake_%2819833365911%29.jpg/1280px-Kaptai_Lake_%2819833365911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 801,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kaptai_Lake_%2819833365911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kaptai_Lake_%2819833365911%29.jpg/1280px-Kaptai_Lake_%2819833365911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 801,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kaptai_Lake_%2819833365911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kaptai_Lake_%2819833365911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Lake_(19833365911).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42686301",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2015-08-27 06:48:21",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Lake (19833365911)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Kaptai Lake|Flickr images reviewed by FlickreviewR|FoP-Bangladesh|Files from Flickr uploaded by Moheen",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Kaptai Lake is a man made lake in south-eastern Bangladesh. It is located in the Kaptai Upazila under Rangamati District of Chittagong Division. The lake was created as a result of building the Kaptai Dam on the Karnaphuli River.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2015-07-19 20:28",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/abdullah2ice/19833365911/\">Kaptai Lake - 2</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/47472006@N04\">Mohammed Abdullah</a> from Chittagong, Bangladesh",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 51304490,
+      "ns": 6,
+      "title": "File:Kaptai Lake - 2 (19833365911).jpg",
+      "index": 12,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 1342353,
+          "width": 2048,
+          "height": 1367,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Kaptai_Lake_-_2_%2819833365911%29.jpg/1280px-Kaptai_Lake_-_2_%2819833365911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 801,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/7/79/Kaptai_Lake_-_2_%2819833365911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Kaptai_Lake_-_2_%2819833365911%29.jpg/1280px-Kaptai_Lake_-_2_%2819833365911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 801,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/79/Kaptai_Lake_-_2_%2819833365911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Kaptai_Lake_-_2_%2819833365911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Lake_-_2_(19833365911).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=51304490",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2016-09-10 19:19:46",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Lake - 2 (19833365911)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Kaptai Lake|Flickr images reviewed by FlickreviewR",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Kaptai Lake is a man made lake in south-eastern Bangladesh. It is located in the Kaptai Upazila under Rangamati District of Chittagong Division. The lake was created as a result of building the Kaptai Dam on the Karnaphuli River.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2015-07-19 20:28",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/abdullah2ice/19833365911/\">Kaptai Lake - 2</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/47472006@N04\">Mohammed Abdullah</a> from Chittagong, Bangladesh",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 75621250,
+      "ns": 6,
+      "title": "File:Kaptai dam in East Pakistan being visited by Ayub Khan.jpg",
+      "index": 16,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 141125,
+          "width": 1024,
+          "height": 604,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kaptai_dam_in_East_Pakistan_being_visited_by_Ayub_Khan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1200,
+          "thumbheight": 708,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kaptai_dam_in_East_Pakistan_being_visited_by_Ayub_Khan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 708
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kaptai_dam_in_East_Pakistan_being_visited_by_Ayub_Khan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_dam_in_East_Pakistan_being_visited_by_Ayub_Khan.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75621250",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2019-01-06 04:30:15",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai dam in East Pakistan being visited by Ayub Khan",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-Pakistan|Muhammad Ayub Khan",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "President of Pakistan Ayub Khan visiting Kaptai dam in East Pakistan",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1962-02-13",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/pimu/5252863461\">https://www.flickr.com/photos/pimu/5252863461</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Photographer not known",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 91269413,
+      "ns": 6,
+      "title": "File:কাপ্তাই লেক, রাঙ্গামাটি, চট্টগ্রাম.jpg",
+      "index": 15,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 91947,
+          "width": 960,
+          "height": 720,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/10/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%87_%E0%A6%B2%E0%A7%87%E0%A6%95%2C_%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF%2C_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%87_%E0%A6%B2%E0%A7%87%E0%A6%95%2C_%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF%2C_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%87_%E0%A6%B2%E0%A7%87%E0%A6%95%2C_%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF%2C_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%87_%E0%A6%B2%E0%A7%87%E0%A6%95,_%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF,_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91269413",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-06-17 08:36:08",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "কাপ্তাই লেক, রাঙ্গামাটি, চট্টগ্রাম",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Kaptai National Park|Self-published work|Files with coordinates missing SDC location of creation|Images from Wiki Loves Earth 2020 in Bangladesh|Images from Wiki Loves Earth 2020|Bangladesh photographs taken on 2020-06-03|Uploaded via Campaign:wle-bd|Images from Wiki Loves Earth missing SDC location of creation|Natural heritage sites in Bangladesh with known IDs",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.300800",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "92.120400",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "This is a photo of a natural heritage site in Bangladesh identified by the ID:",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2020-06-03",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mrparvejkhaan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mrparvejkhaan (page does not exist)\">Mrparvejkhaan</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 92568574,
+      "ns": 6,
+      "title": "File:Kaptai Dam (01).jpg",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 4795412,
+          "width": 3648,
+          "height": 2736,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Kaptai_Dam_%2801%29.jpg/1280px-Kaptai_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kaptai_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Kaptai_Dam_%2801%29.jpg/1280px-Kaptai_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kaptai_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kaptai_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(01).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92568574",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-07-24 18:05:24",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Dam (01)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon PowerShot G12|Kaptai Dam|Attribution only license|Self-published work|Information field template with formatting|Photographs by Moheen Reeyad|Files with coordinates missing SDC location of creation|February 2020 in Chattogram|Bangladesh photographs taken on 2020-02-28|Supported by Chattogram Wikimedia Community|Images of Bangladesh by Moheen Reeyad|Photographs of architecture by Moheen Reeyad|Photographs of nature by Moheen Reeyad|Photographs of locations by Moheen Reeyad",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.493840",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "92.232500",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<i>Kaptai Dam</i> is on the Karnaphuli River at Kaptai in Rangamati District, Bangladesh.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 28 February 2020, 09:24:02",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28709819\" class=\"extiw\" title=\"d:Q28709819\"><span title=\"Bangladeshi graphic artist and writer\">Moheen Reeyad</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<div style=\"max-width:900px\" id=\"license-information\">\n<div style=\"background-color:#eee; color:#333; padding:20px 30px; box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.37);\">\n<div style=\"padding-bottom:10px\">\n<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Kaptai_Dam_(01).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Kaptai_Dam_%2801%29.jpg/250px-Kaptai_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"98\" style=\"--mw-file-upright: 0.5\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Kaptai_Dam_%2801%29.jpg/330px-Kaptai_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3648\" data-file-height=\"2736\"></a><figcaption>Image: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.moheenreeyad.com/\">Moheen Reeyad</a><br>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a> via <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Kaptai_Dam_(01).jpg\" href=\"https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(01).jpg\">Wikimedia Commons</a> </figcaption></figure>\n<p><b><a href=\"https://upload.wikimedia.org/wikipedia/commons/e/e6/Kaptai_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Dam (01).jpg\"><i>This work</i></a> was published by <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>, and released under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">free license CC BY-SA 4.0</a> which also allows the usage outside of Wikimedia under the following conditions:</b>\n</p>\n<ul><li>Feel free to use <a href=\"https://upload.wikimedia.org/wikipedia/commons/e/e6/Kaptai_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Dam (01).jpg\"><b>this</b></a> for any purpose as long as you credit <b>Moheen Reeyad</b> as the author/creator and follow the terms of the chosen license(s) as well as the conform weblinks – like in the example on the right. Print publications additionally need to reproduce their URL (<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">creativecommons.org/licenses/by-sa/4.0/legalcode</a>).</li></ul>\n<ul><li>If you remix, transform, or build upon the material, you must <b>distribute your contributions under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">same license</a></b> as the original.</li></ul>\n<p>Please <b><a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">send me</a></b> a specimen copy or the URL of the website where the image is used. As a courtesy, please let me know if you plan to use this photo in any printed medium. Thanks in advance.\n</p>\n</div>\n<hr>\n<p>The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(01).jpg\">Online <b>Attribution Generator</b></a> offers a good tool to generate an attribution sufficient for your use case.\n</p>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p>Feel free to contact me <a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">via email</a> for any questions or in case you need:\n</p>\n<ul><li>an individual licenses to use the image without the requirements of the above terms and conditions</li>\n<li>a higher resolution or a different crop of the same subject</li>\n<li>or similar subject and photographs</li></ul>\n</div>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p><i><b>NOTE</b>: Only the terms and conditions mentioned above authorize the free use of this image. Any infringement causes a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyvio\" class=\"mw-redirect\" title=\"Commons:Copyvio\">copyright violation</a>, that may result in a penalty fee of five times <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediafon.net/meldung_volltext.php3?id=43146fe782e92\">the fee suggested</a> by the <a href=\"https://de.wikipedia.org/wiki/Mittelstandsgemeinschaft_Foto-Marketing\" class=\"extiw\" title=\"de:Mittelstandsgemeinschaft Foto-Marketing\">MFM</a>, inter alia.</i>\n</p>\n<hr>\n<p><small><a href=\"//commons.wikimedia.org/wiki/User:Moheen/Permission\" title=\"User:Moheen/Permission\">Templete credit</a>: <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft\" title=\"User:Martin Kraft\">Martin Kraft</a>, published under the license <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/de/legalcode\">CC BY-SA 3.0</a>. <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft/permission\" title=\"User:Martin Kraft/permission\">soucre template</a>)</small>\n</p>\n</div>\n</div>\n</div>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Attribution": {
+              "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 92568575,
+      "ns": 6,
+      "title": "File:Kaptai Dam (03).jpg",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 5294677,
+          "width": 3648,
+          "height": 2736,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaptai_Dam_%2803%29.jpg/1280px-Kaptai_Dam_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kaptai_Dam_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaptai_Dam_%2803%29.jpg/1280px-Kaptai_Dam_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kaptai_Dam_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kaptai_Dam_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(03).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92568575",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-07-24 18:05:24",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Dam (03)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon PowerShot G12|Kaptai Dam|Attribution only license|Self-published work|Information field template with formatting|Photographs by Moheen Reeyad|Files with coordinates missing SDC location of creation|February 2020 in Chattogram|Bangladesh photographs taken on 2020-02-28|Supported by Chattogram Wikimedia Community|Images of Bangladesh by Moheen Reeyad|Photographs of architecture by Moheen Reeyad|Photographs of nature by Moheen Reeyad|Photographs of locations by Moheen Reeyad",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.493840",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "92.232500",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<i>Kaptai Dam</i> is on the Karnaphuli River at Kaptai in Rangamati District, Bangladesh.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 28 February 2020, 09:24:22",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28709819\" class=\"extiw\" title=\"d:Q28709819\"><span title=\"Bangladeshi graphic artist and writer\">Moheen Reeyad</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<div style=\"max-width:900px\" id=\"license-information\">\n<div style=\"background-color:#eee; color:#333; padding:20px 30px; box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.37);\">\n<div style=\"padding-bottom:10px\">\n<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Kaptai_Dam_(03).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaptai_Dam_%2803%29.jpg/250px-Kaptai_Dam_%2803%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"98\" style=\"--mw-file-upright: 0.5\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaptai_Dam_%2803%29.jpg/330px-Kaptai_Dam_%2803%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3648\" data-file-height=\"2736\"></a><figcaption>Image: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.moheenreeyad.com/\">Moheen Reeyad</a><br>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a> via <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Kaptai_Dam_(03).jpg\" href=\"https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(03).jpg\">Wikimedia Commons</a> </figcaption></figure>\n<p><b><a href=\"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kaptai_Dam_%2803%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Dam (03).jpg\"><i>This work</i></a> was published by <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>, and released under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">free license CC BY-SA 4.0</a> which also allows the usage outside of Wikimedia under the following conditions:</b>\n</p>\n<ul><li>Feel free to use <a href=\"https://upload.wikimedia.org/wikipedia/commons/9/9c/Kaptai_Dam_%2803%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Dam (03).jpg\"><b>this</b></a> for any purpose as long as you credit <b>Moheen Reeyad</b> as the author/creator and follow the terms of the chosen license(s) as well as the conform weblinks – like in the example on the right. Print publications additionally need to reproduce their URL (<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">creativecommons.org/licenses/by-sa/4.0/legalcode</a>).</li></ul>\n<ul><li>If you remix, transform, or build upon the material, you must <b>distribute your contributions under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">same license</a></b> as the original.</li></ul>\n<p>Please <b><a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">send me</a></b> a specimen copy or the URL of the website where the image is used. As a courtesy, please let me know if you plan to use this photo in any printed medium. Thanks in advance.\n</p>\n</div>\n<hr>\n<p>The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(03).jpg\">Online <b>Attribution Generator</b></a> offers a good tool to generate an attribution sufficient for your use case.\n</p>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p>Feel free to contact me <a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">via email</a> for any questions or in case you need:\n</p>\n<ul><li>an individual licenses to use the image without the requirements of the above terms and conditions</li>\n<li>a higher resolution or a different crop of the same subject</li>\n<li>or similar subject and photographs</li></ul>\n</div>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p><i><b>NOTE</b>: Only the terms and conditions mentioned above authorize the free use of this image. Any infringement causes a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyvio\" class=\"mw-redirect\" title=\"Commons:Copyvio\">copyright violation</a>, that may result in a penalty fee of five times <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediafon.net/meldung_volltext.php3?id=43146fe782e92\">the fee suggested</a> by the <a href=\"https://de.wikipedia.org/wiki/Mittelstandsgemeinschaft_Foto-Marketing\" class=\"extiw\" title=\"de:Mittelstandsgemeinschaft Foto-Marketing\">MFM</a>, inter alia.</i>\n</p>\n<hr>\n<p><small><a href=\"//commons.wikimedia.org/wiki/User:Moheen/Permission\" title=\"User:Moheen/Permission\">Templete credit</a>: <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft\" title=\"User:Martin Kraft\">Martin Kraft</a>, published under the license <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/de/legalcode\">CC BY-SA 3.0</a>. <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft/permission\" title=\"User:Martin Kraft/permission\">soucre template</a>)</small>\n</p>\n</div>\n</div>\n</div>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Attribution": {
+              "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 92568576,
+      "ns": 6,
+      "title": "File:Kaptai Dam (02).jpg",
+      "index": 6,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 4671876,
+          "width": 3648,
+          "height": 2736,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaptai_Dam_%2802%29.jpg/1280px-Kaptai_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Kaptai_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaptai_Dam_%2802%29.jpg/1280px-Kaptai_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Kaptai_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Kaptai_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(02).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92568576",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-07-24 18:05:24",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Dam (02)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon PowerShot G12|Kaptai Dam|Attribution only license|Self-published work|Information field template with formatting|Photographs by Moheen Reeyad|Files with coordinates missing SDC location of creation|February 2020 in Chattogram|Bangladesh photographs taken on 2020-02-28|Supported by Chattogram Wikimedia Community|Images of Bangladesh by Moheen Reeyad|Photographs of architecture by Moheen Reeyad|Photographs of nature by Moheen Reeyad|Photographs of locations by Moheen Reeyad",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.493840",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "92.232500",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<i>Kaptai Dam</i> is on the Karnaphuli River at Kaptai in Rangamati District, Bangladesh.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 28 February 2020, 09:24:10",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28709819\" class=\"extiw\" title=\"d:Q28709819\"><span title=\"Bangladeshi graphic artist and writer\">Moheen Reeyad</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<div style=\"max-width:900px\" id=\"license-information\">\n<div style=\"background-color:#eee; color:#333; padding:20px 30px; box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.37);\">\n<div style=\"padding-bottom:10px\">\n<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Kaptai_Dam_(02).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaptai_Dam_%2802%29.jpg/250px-Kaptai_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"98\" style=\"--mw-file-upright: 0.5\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaptai_Dam_%2802%29.jpg/330px-Kaptai_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3648\" data-file-height=\"2736\"></a><figcaption>Image: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.moheenreeyad.com/\">Moheen Reeyad</a><br>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a> via <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Kaptai_Dam_(02).jpg\" href=\"https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(02).jpg\">Wikimedia Commons</a> </figcaption></figure>\n<p><b><a href=\"https://upload.wikimedia.org/wikipedia/commons/0/0c/Kaptai_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Dam (02).jpg\"><i>This work</i></a> was published by <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>, and released under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">free license CC BY-SA 4.0</a> which also allows the usage outside of Wikimedia under the following conditions:</b>\n</p>\n<ul><li>Feel free to use <a href=\"https://upload.wikimedia.org/wikipedia/commons/0/0c/Kaptai_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Dam (02).jpg\"><b>this</b></a> for any purpose as long as you credit <b>Moheen Reeyad</b> as the author/creator and follow the terms of the chosen license(s) as well as the conform weblinks – like in the example on the right. Print publications additionally need to reproduce their URL (<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">creativecommons.org/licenses/by-sa/4.0/legalcode</a>).</li></ul>\n<ul><li>If you remix, transform, or build upon the material, you must <b>distribute your contributions under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">same license</a></b> as the original.</li></ul>\n<p>Please <b><a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">send me</a></b> a specimen copy or the URL of the website where the image is used. As a courtesy, please let me know if you plan to use this photo in any printed medium. Thanks in advance.\n</p>\n</div>\n<hr>\n<p>The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(02).jpg\">Online <b>Attribution Generator</b></a> offers a good tool to generate an attribution sufficient for your use case.\n</p>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p>Feel free to contact me <a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">via email</a> for any questions or in case you need:\n</p>\n<ul><li>an individual licenses to use the image without the requirements of the above terms and conditions</li>\n<li>a higher resolution or a different crop of the same subject</li>\n<li>or similar subject and photographs</li></ul>\n</div>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p><i><b>NOTE</b>: Only the terms and conditions mentioned above authorize the free use of this image. Any infringement causes a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyvio\" class=\"mw-redirect\" title=\"Commons:Copyvio\">copyright violation</a>, that may result in a penalty fee of five times <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediafon.net/meldung_volltext.php3?id=43146fe782e92\">the fee suggested</a> by the <a href=\"https://de.wikipedia.org/wiki/Mittelstandsgemeinschaft_Foto-Marketing\" class=\"extiw\" title=\"de:Mittelstandsgemeinschaft Foto-Marketing\">MFM</a>, inter alia.</i>\n</p>\n<hr>\n<p><small><a href=\"//commons.wikimedia.org/wiki/User:Moheen/Permission\" title=\"User:Moheen/Permission\">Templete credit</a>: <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft\" title=\"User:Martin Kraft\">Martin Kraft</a>, published under the license <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/de/legalcode\">CC BY-SA 3.0</a>. <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft/permission\" title=\"User:Martin Kraft/permission\">soucre template</a>)</small>\n</p>\n</div>\n</div>\n</div>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Attribution": {
+              "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 92568581,
+      "ns": 6,
+      "title": "File:Kaptai Dam (04).jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 4350189,
+          "width": 3648,
+          "height": 2736,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kaptai_Dam_%2804%29.jpg/1280px-Kaptai_Dam_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kaptai_Dam_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kaptai_Dam_%2804%29.jpg/1280px-Kaptai_Dam_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kaptai_Dam_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kaptai_Dam_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(04).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92568581",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-07-24 18:05:36",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Dam (04)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon PowerShot G12|Kaptai Dam|Attribution only license|Self-published work|Information field template with formatting|Photographs by Moheen Reeyad|Files with coordinates missing SDC location of creation|February 2020 in Chattogram|Bangladesh photographs taken on 2020-02-28|Supported by Chattogram Wikimedia Community|Images of Bangladesh by Moheen Reeyad|Photographs of architecture by Moheen Reeyad|Photographs of nature by Moheen Reeyad|Photographs of locations by Moheen Reeyad",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.493840",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "92.232500",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<i>Kaptai Dam</i> is on the Karnaphuli River at Kaptai in Rangamati District, Bangladesh.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 28 February 2020, 09:24:35",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28709819\" class=\"extiw\" title=\"d:Q28709819\"><span title=\"Bangladeshi graphic artist and writer\">Moheen Reeyad</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<div style=\"max-width:900px\" id=\"license-information\">\n<div style=\"background-color:#eee; color:#333; padding:20px 30px; box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.37);\">\n<div style=\"padding-bottom:10px\">\n<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Kaptai_Dam_(04).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kaptai_Dam_%2804%29.jpg/250px-Kaptai_Dam_%2804%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"98\" style=\"--mw-file-upright: 0.5\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kaptai_Dam_%2804%29.jpg/330px-Kaptai_Dam_%2804%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3648\" data-file-height=\"2736\"></a><figcaption>Image: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.moheenreeyad.com/\">Moheen Reeyad</a><br>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a> via <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Kaptai_Dam_(04).jpg\" href=\"https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(04).jpg\">Wikimedia Commons</a> </figcaption></figure>\n<p><b><a href=\"https://upload.wikimedia.org/wikipedia/commons/6/6b/Kaptai_Dam_%2804%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Dam (04).jpg\"><i>This work</i></a> was published by <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>, and released under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">free license CC BY-SA 4.0</a> which also allows the usage outside of Wikimedia under the following conditions:</b>\n</p>\n<ul><li>Feel free to use <a href=\"https://upload.wikimedia.org/wikipedia/commons/6/6b/Kaptai_Dam_%2804%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Dam (04).jpg\"><b>this</b></a> for any purpose as long as you credit <b>Moheen Reeyad</b> as the author/creator and follow the terms of the chosen license(s) as well as the conform weblinks – like in the example on the right. Print publications additionally need to reproduce their URL (<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">creativecommons.org/licenses/by-sa/4.0/legalcode</a>).</li></ul>\n<ul><li>If you remix, transform, or build upon the material, you must <b>distribute your contributions under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">same license</a></b> as the original.</li></ul>\n<p>Please <b><a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">send me</a></b> a specimen copy or the URL of the website where the image is used. As a courtesy, please let me know if you plan to use this photo in any printed medium. Thanks in advance.\n</p>\n</div>\n<hr>\n<p>The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Kaptai_Dam_(04).jpg\">Online <b>Attribution Generator</b></a> offers a good tool to generate an attribution sufficient for your use case.\n</p>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p>Feel free to contact me <a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">via email</a> for any questions or in case you need:\n</p>\n<ul><li>an individual licenses to use the image without the requirements of the above terms and conditions</li>\n<li>a higher resolution or a different crop of the same subject</li>\n<li>or similar subject and photographs</li></ul>\n</div>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p><i><b>NOTE</b>: Only the terms and conditions mentioned above authorize the free use of this image. Any infringement causes a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyvio\" class=\"mw-redirect\" title=\"Commons:Copyvio\">copyright violation</a>, that may result in a penalty fee of five times <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediafon.net/meldung_volltext.php3?id=43146fe782e92\">the fee suggested</a> by the <a href=\"https://de.wikipedia.org/wiki/Mittelstandsgemeinschaft_Foto-Marketing\" class=\"extiw\" title=\"de:Mittelstandsgemeinschaft Foto-Marketing\">MFM</a>, inter alia.</i>\n</p>\n<hr>\n<p><small><a href=\"//commons.wikimedia.org/wiki/User:Moheen/Permission\" title=\"User:Moheen/Permission\">Templete credit</a>: <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft\" title=\"User:Martin Kraft\">Martin Kraft</a>, published under the license <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/de/legalcode\">CC BY-SA 3.0</a>. <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft/permission\" title=\"User:Martin Kraft/permission\">soucre template</a>)</small>\n</p>\n</div>\n</div>\n</div>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Attribution": {
+              "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 93117923,
+      "ns": 6,
+      "title": "File:Kaptai Lake near Dam (01).jpg",
+      "index": 9,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 4629269,
+          "width": 3648,
+          "height": 2736,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kaptai_Lake_near_Dam_%2801%29.jpg/1280px-Kaptai_Lake_near_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/3/39/Kaptai_Lake_near_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kaptai_Lake_near_Dam_%2801%29.jpg/1280px-Kaptai_Lake_near_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/39/Kaptai_Lake_near_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Kaptai_Lake_near_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Lake_near_Dam_(01).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93117923",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-08-13 19:59:15",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Lake near Dam (01)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Kaptai Lake|Attribution only license|Self-published work|Information field template with formatting|Photographs by Moheen Reeyad|February 2020 in Chattogram|Bangladesh photographs taken on 2020-02-28|Supported by Chattogram Wikimedia Community|Images of Bangladesh by Moheen Reeyad|Photographs of nature by Moheen Reeyad|Photographs of locations by Moheen Reeyad",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Kaptai Lake, Chattogram",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 28 February 2020, 09:21:03",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28709819\" class=\"extiw\" title=\"d:Q28709819\"><span title=\"Bangladeshi graphic artist and writer\">Moheen Reeyad</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<div style=\"max-width:900px\" id=\"license-information\">\n<div style=\"background-color:#eee; color:#333; padding:20px 30px; box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.37);\">\n<div style=\"padding-bottom:10px\">\n<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Kaptai_Lake_near_Dam_(01).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kaptai_Lake_near_Dam_%2801%29.jpg/250px-Kaptai_Lake_near_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"98\" style=\"--mw-file-upright: 0.5\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kaptai_Lake_near_Dam_%2801%29.jpg/330px-Kaptai_Lake_near_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3648\" data-file-height=\"2736\"></a><figcaption>Image: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.moheenreeyad.com/\">Moheen Reeyad</a><br>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a> via <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Kaptai_Lake_near_Dam_(01).jpg\" href=\"https://commons.wikimedia.org/wiki/File:Kaptai_Lake_near_Dam_(01).jpg\">Wikimedia Commons</a> </figcaption></figure>\n<p><b><a href=\"https://upload.wikimedia.org/wikipedia/commons/3/39/Kaptai_Lake_near_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Lake near Dam (01).jpg\"><i>This work</i></a> was published by <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>, and released under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">free license CC BY-SA 4.0</a> which also allows the usage outside of Wikimedia under the following conditions:</b>\n</p>\n<ul><li>Feel free to use <a href=\"https://upload.wikimedia.org/wikipedia/commons/3/39/Kaptai_Lake_near_Dam_%2801%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Lake near Dam (01).jpg\"><b>this</b></a> for any purpose as long as you credit <b>Moheen Reeyad</b> as the author/creator and follow the terms of the chosen license(s) as well as the conform weblinks – like in the example on the right. Print publications additionally need to reproduce their URL (<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">creativecommons.org/licenses/by-sa/4.0/legalcode</a>).</li></ul>\n<ul><li>If you remix, transform, or build upon the material, you must <b>distribute your contributions under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">same license</a></b> as the original.</li></ul>\n<p>Please <b><a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">send me</a></b> a specimen copy or the URL of the website where the image is used. As a courtesy, please let me know if you plan to use this photo in any printed medium. Thanks in advance.\n</p>\n</div>\n<hr>\n<p>The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Kaptai_Lake_near_Dam_(01).jpg\">Online <b>Attribution Generator</b></a> offers a good tool to generate an attribution sufficient for your use case.\n</p>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p>Feel free to contact me <a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">via email</a> for any questions or in case you need:\n</p>\n<ul><li>an individual licenses to use the image without the requirements of the above terms and conditions</li>\n<li>a higher resolution or a different crop of the same subject</li>\n<li>or similar subject and photographs</li></ul>\n</div>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p><i><b>NOTE</b>: Only the terms and conditions mentioned above authorize the free use of this image. Any infringement causes a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyvio\" class=\"mw-redirect\" title=\"Commons:Copyvio\">copyright violation</a>, that may result in a penalty fee of five times <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediafon.net/meldung_volltext.php3?id=43146fe782e92\">the fee suggested</a> by the <a href=\"https://de.wikipedia.org/wiki/Mittelstandsgemeinschaft_Foto-Marketing\" class=\"extiw\" title=\"de:Mittelstandsgemeinschaft Foto-Marketing\">MFM</a>, inter alia.</i>\n</p>\n<hr>\n<p><small><a href=\"//commons.wikimedia.org/wiki/User:Moheen/Permission\" title=\"User:Moheen/Permission\">Templete credit</a>: <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft\" title=\"User:Martin Kraft\">Martin Kraft</a>, published under the license <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/de/legalcode\">CC BY-SA 3.0</a>. <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft/permission\" title=\"User:Martin Kraft/permission\">soucre template</a>)</small>\n</p>\n</div>\n</div>\n</div>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Attribution": {
+              "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 93117928,
+      "ns": 6,
+      "title": "File:Kaptai Lake near Dam (02).jpg",
+      "index": 10,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 2653418,
+          "width": 3648,
+          "height": 2736,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaptai_Lake_near_Dam_%2802%29.jpg/1280px-Kaptai_Lake_near_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaptai_Lake_near_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaptai_Lake_near_Dam_%2802%29.jpg/1280px-Kaptai_Lake_near_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaptai_Lake_near_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaptai_Lake_near_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Lake_near_Dam_(02).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93117928",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-08-13 19:59:16",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Lake near Dam (02)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Kaptai Lake|Attribution only license|Self-published work|Information field template with formatting|Photographs by Moheen Reeyad|February 2020 in Chattogram|Bangladesh photographs taken on 2020-02-28|Supported by Chattogram Wikimedia Community|Images of Bangladesh by Moheen Reeyad|Photographs of nature by Moheen Reeyad|Photographs of locations by Moheen Reeyad",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Kaptai Lake, Chattogram",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 28 February 2020, 09:23:41",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28709819\" class=\"extiw\" title=\"d:Q28709819\"><span title=\"Bangladeshi graphic artist and writer\">Moheen Reeyad</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<div style=\"max-width:900px\" id=\"license-information\">\n<div style=\"background-color:#eee; color:#333; padding:20px 30px; box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.37);\">\n<div style=\"padding-bottom:10px\">\n<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Kaptai_Lake_near_Dam_(02).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaptai_Lake_near_Dam_%2802%29.jpg/250px-Kaptai_Lake_near_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"130\" height=\"98\" style=\"--mw-file-upright: 0.5\" class=\"mw-file-element mw-file-upright\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaptai_Lake_near_Dam_%2802%29.jpg/330px-Kaptai_Lake_near_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3648\" data-file-height=\"2736\"></a><figcaption>Image: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.moheenreeyad.com/\">Moheen Reeyad</a><br>License: <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a> via <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Kaptai_Lake_near_Dam_(02).jpg\" href=\"https://commons.wikimedia.org/wiki/File:Kaptai_Lake_near_Dam_(02).jpg\">Wikimedia Commons</a> </figcaption></figure>\n<p><b><a href=\"https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaptai_Lake_near_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Lake near Dam (02).jpg\"><i>This work</i></a> was published by <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>, and released under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">free license CC BY-SA 4.0</a> which also allows the usage outside of Wikimedia under the following conditions:</b>\n</p>\n<ul><li>Feel free to use <a href=\"https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaptai_Lake_near_Dam_%2802%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Lake near Dam (02).jpg\"><b>this</b></a> for any purpose as long as you credit <b>Moheen Reeyad</b> as the author/creator and follow the terms of the chosen license(s) as well as the conform weblinks – like in the example on the right. Print publications additionally need to reproduce their URL (<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">creativecommons.org/licenses/by-sa/4.0/legalcode</a>).</li></ul>\n<ul><li>If you remix, transform, or build upon the material, you must <b>distribute your contributions under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">same license</a></b> as the original.</li></ul>\n<p>Please <b><a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">send me</a></b> a specimen copy or the URL of the website where the image is used. As a courtesy, please let me know if you plan to use this photo in any printed medium. Thanks in advance.\n</p>\n</div>\n<hr>\n<p>The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Kaptai_Lake_near_Dam_(02).jpg\">Online <b>Attribution Generator</b></a> offers a good tool to generate an attribution sufficient for your use case.\n</p>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p>Feel free to contact me <a rel=\"nofollow\" class=\"external text\" href=\"mailto:moheenreeyad@wikimedia.org.bd\">via email</a> for any questions or in case you need:\n</p>\n<ul><li>an individual licenses to use the image without the requirements of the above terms and conditions</li>\n<li>a higher resolution or a different crop of the same subject</li>\n<li>or similar subject and photographs</li></ul>\n</div>\n<hr>\n<div style=\"padding-bottom:10px\">\n<p><i><b>NOTE</b>: Only the terms and conditions mentioned above authorize the free use of this image. Any infringement causes a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyvio\" class=\"mw-redirect\" title=\"Commons:Copyvio\">copyright violation</a>, that may result in a penalty fee of five times <a rel=\"nofollow\" class=\"external text\" href=\"http://www.mediafon.net/meldung_volltext.php3?id=43146fe782e92\">the fee suggested</a> by the <a href=\"https://de.wikipedia.org/wiki/Mittelstandsgemeinschaft_Foto-Marketing\" class=\"extiw\" title=\"de:Mittelstandsgemeinschaft Foto-Marketing\">MFM</a>, inter alia.</i>\n</p>\n<hr>\n<p><small><a href=\"//commons.wikimedia.org/wiki/User:Moheen/Permission\" title=\"User:Moheen/Permission\">Templete credit</a>: <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft\" title=\"User:Martin Kraft\">Martin Kraft</a>, published under the license <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/de/legalcode\">CC BY-SA 3.0</a>. <a href=\"//commons.wikimedia.org/wiki/User:Martin_Kraft/permission\" title=\"User:Martin Kraft/permission\">soucre template</a>)</small>\n</p>\n</div>\n</div>\n</div>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Attribution": {
+              "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Moheen\" title=\"User:Moheen\">Moheen Reeyad</a>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 105041606,
+      "ns": 6,
+      "title": "File:Aksam 1935 agustos 20.pdf",
+      "index": 20,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 12744445,
+          "width": 2187,
+          "height": 3168,
+          "pagecount": 12,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Aksam_1935_agustos_20.pdf/page1-1280px-Aksam_1935_agustos_20.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1738,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Aksam_1935_agustos_20.pdf/page1-1920px-Aksam_1935_agustos_20.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Aksam_1935_agustos_20.pdf/page1-1280px-Aksam_1935_agustos_20.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1738,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Aksam_1935_agustos_20.pdf/page1-1920px-Aksam_1935_agustos_20.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Aksam_1935_agustos_20.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aksam_1935_agustos_20.pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105041606",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-05-08 11:47:09",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Aksam 1935 agustos 20",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD Tr|Akşam Newspaper 1935",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Akşam Gazetesi - 1935 Ağustos 20",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1935-08-20",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "İstanbul Üniversitesi Kütüphane ve Dokümantasyon Daire Başkanlığı",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Akşam Gazetesi",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 112316306,
+      "ns": 6,
+      "title": "File:Kaptai Lake from Navy Camp picnic spot.jpg",
+      "index": 8,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 17545589,
+          "width": 4000,
+          "height": 3000,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg/1280px-Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg/3840px-Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg/1280px-Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg/3840px-Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112316306",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-11-06 05:16:14",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Lake from Navy Camp picnic spot",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Kaptai Lake|Self-published work|Information field template with formatting",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "View of Kaptai Lake from the Navy Camp picnic spot. It is located in the Kaptai Upazila, Rangamati District, Bangladesh. The lake was created as part of building the Kaptai Dam on the Karnaphuli River, for the Karnaphuli Hydro-electric project.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2021-11-01",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:ANKAN\" title=\"User:ANKAN\">ANKAN</a>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<table style=\"margin: 1.5em auto; width:100%; background-color:#d5d7ff; border:4px solid #999; padding:1px;\" cellspacing=\"10\">\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Start_hand.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Start_hand.svg/40px-Start_hand.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"35\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Start_hand.svg/120px-Start_hand.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></a></span>\n</td>\n<td><a href=\"https://upload.wikimedia.org/wikipedia/commons/7/70/Kaptai_Lake_from_Navy_Camp_picnic_spot.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original\" class=\"internal\" title=\"Kaptai Lake from Navy Camp picnic spot.jpg\"><b>This work</b></a> was made by <b><a href=\"//commons.wikimedia.org/wiki/User:ANKAN\" title=\"User:ANKAN\">Ankan Ghosh Dastider</a></b> and released under the license(s) stated below. Feel free to use it for any purpose as long as you credit me as the author and follow the terms of the stated license. If you use this work <b>outside</b> of the Wikimedia projects, I would appreciate getting <b><a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/ANKAN\" title=\"Special:EmailUser/ANKAN\">a message</a></b> from you. Thanks!\n</td></tr></tbody></table>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Attribution": {
+              "value": "© <b><a href=\"//commons.wikimedia.org/wiki/User:ANKAN\" title=\"User:ANKAN\">Ankan Ghosh Dastider</a></b> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 122998374,
+      "ns": 6,
+      "title": "File:Lloyd's Register of Shipping 1968 M-Z.pdf",
+      "index": 21,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 180779924,
+          "width": 1454,
+          "height": 1714,
+          "pagecount": 2372,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lloyd%27s_Register_of_Shipping_1968_M-Z.pdf/page1-1280px-Lloyd%27s_Register_of_Shipping_1968_M-Z.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1415,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lloyd%27s_Register_of_Shipping_1968_M-Z.pdf/page1-1280px-Lloyd%27s_Register_of_Shipping_1968_M-Z.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1415
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lloyd%27s_Register_of_Shipping_1968_M-Z.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lloyd%27s_Register_of_Shipping_1968_M-Z.pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122998374",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2022-09-14 14:16:41",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Lloyd's Register of Shipping 1968 M-Z",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Lloyd's Register of Shipping documents",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "The Lloyd's Register of Shipping records the details of merchant vessels over 100 gross tonnes, which are self-propelled and sea-going, regardless of classification. Before the time, only those vessels classed by Lloyd's Register were listed. Vessels are listed alphabetically by their current name.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1969-01-01",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:LRFHEC\" title=\"User:LRFHEC\">LRFHEC</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 137779490,
+      "ns": 6,
+      "title": "File:Kaptai Lake sluice gate.jpg",
+      "index": 18,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 334721,
+          "width": 1600,
+          "height": 1200,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kaptai_Lake_sluice_gate.jpg/1280px-Kaptai_Lake_sluice_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kaptai_Lake_sluice_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kaptai_Lake_sluice_gate.jpg/1280px-Kaptai_Lake_sluice_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kaptai_Lake_sluice_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kaptai_Lake_sluice_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Lake_sluice_gate.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137779490",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2023-09-18 12:21:31",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Lake sluice gate",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Kaptai Lake|Self-published work",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "কাপ্তাই লেক",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2023-09-16",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hrksmp\" title=\"User:Hrksmp\">Hrksmp</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 148127689,
+      "ns": 6,
+      "title": "File:Monsoon on Kaptai Lake.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 10386645,
+          "width": 4730,
+          "height": 3154,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Monsoon_on_Kaptai_Lake.jpg/1280px-Monsoon_on_Kaptai_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 800,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Monsoon_on_Kaptai_Lake.jpg/3840px-Monsoon_on_Kaptai_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Monsoon_on_Kaptai_Lake.jpg/1280px-Monsoon_on_Kaptai_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 800,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Monsoon_on_Kaptai_Lake.jpg/3840px-Monsoon_on_Kaptai_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Monsoon_on_Kaptai_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monsoon_on_Kaptai_Lake.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148127689",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2024-05-07 05:14:28",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Monsoon on Kaptai Lake",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Kaptai National Park|Self-published work|Files with coordinates missing SDC location of creation|Project Korikath-All images|Images from Wiki Loves Earth 2024|Images from Wiki Loves Earth 2024 in Bangladesh|Images from Wiki Loves Earth missing SDC location of creation|Wiki Loves Earth 2024 in Bangladesh Round-1|Uploaded via Campaign:wle bd 2024",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.498867",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "92.177694",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "There is a saying in local, \"Bengali in fish and rice\". So, the significance is fish and rice are the staple food of the Bengali people. As a riverine country, most of the fish comes from rivers, other sources are sea and man-made lakes.\n<p>In this minimal picture, you can see fishermen fishing from their boat around the breathtaking hillside area in Kaptai Lake. Different types of fish can be found in this artificial lake, delivered to local markets and across the country to meet the food chain requirements.\nKaptai Lake, the largest man-made lake in Bangladesh; located in the Kaptai Upazila under the Rangamati District of Chittagong Division was created in 1960.\n</p>\nThe reservoir was established due to damming the river Karnafuli close to Kaptai town in the Chittagong hill tracts as a feature of a hydroelectric power generation project. Kaptai Lake's average depth is 100 feet and its maximum depth is 490 feet. However, made primarily for hydroelectric power generation, it contributes to producing a significant quantity of freshwater fishes, navigation, flood control, agribusiness, and so on. The lake, dotted with islands (where locals make up their houses for living), is unquestionably beautiful and a boat trip across the lake is a phenomenal method for going through a day over here.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2023-09-29 14:53:29",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Foysal_Mehedi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Foysal Mehedi (page does not exist)\">Foysal Mehedi</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 188919130,
+      "ns": 6,
+      "title": "File:Kaptai Lake in Karnafuly, Rangamati.jpg",
+      "index": 14,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 11385196,
+          "width": 4160,
+          "height": 3120,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg/1280px-Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg/3840px-Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg/1280px-Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg/3840px-Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaptai_Lake_in_Karnafuly,_Rangamati.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188919130",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2026-04-12 10:58:18",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Kaptai Lake in Karnafuly, Rangamati",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Kaptai Lake|Self-published work|Taken with Realme C17",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Kaptai Lake view in Karnafuly, Rangamati",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2026-04-11 16:22:28",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josephite_25\" title=\"User:Josephite 25\">Josephite 25</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}

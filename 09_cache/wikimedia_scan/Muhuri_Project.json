@@ -1,0 +1,1647 @@
+{
+  "landmark": "Muhuri_Project",
+  "district": "Feni",
+  "queries": [
+    {
+      "query": "Muhuri Project Feni",
+      "total_hits": 0,
+      "retrieved": 10
+    },
+    {
+      "query": "Muhuri Project Bangladesh",
+      "total_hits": 0,
+      "retrieved": 15
+    },
+    {
+      "query": "Muhuri Dam Feni",
+      "total_hits": 0,
+      "retrieved": 2
+    }
+  ],
+  "unique_files_retrieved": 15,
+  "files": [
+    {
+      "pageid": 35272412,
+      "ns": 6,
+      "title": "File:Dinggi Naiaka.jpg",
+      "index": 8,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 354700,
+          "width": 1600,
+          "height": 1200,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Dinggi_Naiaka.jpg/1280px-Dinggi_Naiaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dinggi_Naiaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Dinggi_Naiaka.jpg/1280px-Dinggi_Naiaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dinggi_Naiaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dinggi_Naiaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dinggi_Naiaka.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35272412",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-09-10 10:37:42",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Dinggi Naiaka",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Samsung Galaxy Y|Muhuri river|Sonagazi Upazila|Self-published work|Wooden boats in Bangladesh|Images from Bangla Wikipedia Photography Contest 2014|Bangladesh photographs taken on 2014-03-06|Files from competitions organized by Wikimedia Bangladesh|Uploaded via Campaign:bwpc",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Wind Electricity Project in Riverside-Muhuri Project, Sonagazi, Feni",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 6 March 2014, 14:07:45",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Anowar.cst\" title=\"User:Anowar.cst\">Nibid Anowar</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 35272413,
+      "ns": 6,
+      "title": "File:DinggiNaiaka.jpg",
+      "index": 7,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 780314,
+          "width": 1600,
+          "height": 1200,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/DinggiNaiaka.jpg/1280px-DinggiNaiaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DinggiNaiaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/DinggiNaiaka.jpg/1280px-DinggiNaiaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DinggiNaiaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DinggiNaiaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:DinggiNaiaka.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35272413",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-09-10 10:37:45",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "DinggiNaiaka",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Samsung Galaxy Y|Muhuri river|Sonagazi Upazila|Self-published work|Wooden boats in Bangladesh|Images from Bangla Wikipedia Photography Contest 2014|Bangladesh photographs taken on 2014-03-06|Files from competitions organized by Wikimedia Bangladesh|Uploaded via Campaign:bwpc",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Beside Wind Electricity Project in Riverside-Muhuri Project, Sonagazi, Feni",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 6 March 2014, 14:13:12",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Anowar.cst\" title=\"User:Anowar.cst\">Nibid Anowar</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 35272414,
+      "ns": 6,
+      "title": "File:Wind electricity tower.jpg",
+      "index": 9,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 429442,
+          "width": 1600,
+          "height": 1200,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Wind_electricity_tower.jpg/1280px-Wind_electricity_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Wind_electricity_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Wind_electricity_tower.jpg/1280px-Wind_electricity_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Wind_electricity_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Wind_electricity_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wind_electricity_tower.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35272414",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-09-10 10:37:46",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Wind electricity tower",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Samsung Galaxy Y|Muhuri river|Sonagazi Upazila|Self-published work|Images from Bangla Wikipedia Photography Contest 2014|Bangladesh photographs taken on 2014-03-06|Files from competitions organized by Wikimedia Bangladesh|Uploaded via Campaign:bwpc|Unidentified media related to Bengali Wikipedia|Unreviewed Images from Bangla Wikipedia Photography Contest 2014",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Wind Electricity Project in Riverside-Muhuri Project, Sonagazi, Feni",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 6 March 2014, 14:18:43",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Anowar.cst\" title=\"User:Anowar.cst\">Nibid Anowar</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 35272415,
+      "ns": 6,
+      "title": "File:Wind electricity project at evening.jpg",
+      "index": 6,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 442742,
+          "width": 1600,
+          "height": 1200,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Wind_electricity_project_at_evening.jpg/1280px-Wind_electricity_project_at_evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wind_electricity_project_at_evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Wind_electricity_project_at_evening.jpg/1280px-Wind_electricity_project_at_evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wind_electricity_project_at_evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wind_electricity_project_at_evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wind_electricity_project_at_evening.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35272415",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-09-10 10:37:50",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Wind electricity project at evening",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Samsung Galaxy Y|Muhuri river|Sonagazi Upazila|Self-published work|Images from Bangla Wikipedia Photography Contest 2014|Bangladesh photographs taken on 2014-07-30|Files from competitions organized by Wikimedia Bangladesh|Uploaded via Campaign:bwpc|Unidentified media related to Bengali Wikipedia|Unreviewed Images from Bangla Wikipedia Photography Contest 2014",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Wind Electricity Project in Riverside-Muhuri Project, Sonagazi, Feni",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 30 July 2014, 17:58:47",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Anowar.cst\" title=\"User:Anowar.cst\">Nibid Anowar</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 35272418,
+      "ns": 6,
+      "title": "File:Wind electricity-Muhuri Project.jpg",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 300744,
+          "width": 1600,
+          "height": 1200,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Wind_electricity-Muhuri_Project.jpg/1280px-Wind_electricity-Muhuri_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wind_electricity-Muhuri_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Wind_electricity-Muhuri_Project.jpg/1280px-Wind_electricity-Muhuri_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wind_electricity-Muhuri_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wind_electricity-Muhuri_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wind_electricity-Muhuri_Project.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35272418",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-09-10 10:38:14",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Wind electricity-Muhuri Project",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Samsung Galaxy Y|Muhuri river|Sonagazi Upazila|Self-published work|Images from Bangla Wikipedia Photography Contest 2014|Bangladesh photographs taken on 2014-03-06|Files from competitions organized by Wikimedia Bangladesh|Uploaded via Campaign:bwpc|Unidentified media related to Bengali Wikipedia|Unreviewed Images from Bangla Wikipedia Photography Contest 2014",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Wind Electricity Project in Riverside-Muhuri Project, Sonagazi, Feni",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken on 6 March 2014, 14:07:50",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Anowar.cst\" title=\"User:Anowar.cst\">Nibid Anowar</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 92964586,
+      "ns": 6,
+      "title": "File:Majhar.photo.jpg",
+      "index": 10,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 946504,
+          "width": 2852,
+          "height": 1837,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Majhar.photo.jpg/1280px-Majhar.photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 773,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/7/77/Majhar.photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Majhar.photo.jpg/1280px-Majhar.photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 773,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/77/Majhar.photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Majhar.photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Majhar.photo.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92964586",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-08-08 05:34:27",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Majhar.photo",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Muhuri river|Sonagazi Upazila|Self-published work|Files with coordinates missing SDC location of creation",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.838056",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "91.453611",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Picture taken at Muhuri Project, Feni",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2020-07-20",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Majhar.ssb&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Majhar.ssb (page does not exist)\">Majhar.ssb</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 95874209,
+      "ns": 6,
+      "title": "File:Noakhali (IA noakhali00webs).pdf",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 8824157,
+          "width": 870,
+          "height": 1362,
+          "pagecount": 132,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Noakhali_%28IA_noakhali00webs%29.pdf/page1-500px-Noakhali_%28IA_noakhali00webs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1879,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Noakhali_%28IA_noakhali00webs%29.pdf/page1-500px-Noakhali_%28IA_noakhali00webs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1879
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Noakhali_%28IA_noakhali00webs%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Noakhali_(IA_noakhali00webs).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95874209",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-11-06 23:29:23",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nNoakhali</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nWebster, John Edward, 1870-</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\nSubjects: Noakhali District (Bangladesh) -- Gazetteers; Noakhali District (Bangladesh) -- Economic conditions</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/noakhali00webs\" class=\"extiw\" title=\"iarchive:noakhali00webs\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: noakhali00webs</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/noakhali00webs/noakhali00webs.pdf\">https://archive.org/download/noakhali00webs/noakhali00webs.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 149358471,
+      "ns": 6,
+      "title": "File:Feni River Closure Dam.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 3578767,
+          "width": 4000,
+          "height": 3000,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Feni_River_Closure_Dam.jpg/1280px-Feni_River_Closure_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Feni_River_Closure_Dam.jpg/3840px-Feni_River_Closure_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Feni_River_Closure_Dam.jpg/1280px-Feni_River_Closure_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Feni_River_Closure_Dam.jpg/3840px-Feni_River_Closure_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Feni_River_Closure_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Feni_River_Closure_Dam.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149358471",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2024-06-13 22:05:45",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Feni River Closure Dam",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Feni District|Feni river|Sonagazi Upazila|Self-published work|Files with coordinates missing SDC location of creation|Muhuri Project",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.836228",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "91.454622",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Water hyacinths on the Feni River at Muhuri Project in Sonagazi",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2024-04-11 13:37:15",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bolideleoi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bolideleoi (page does not exist)\">Bolideleoi</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 152928942,
+      "ns": 6,
+      "title": "File:Muhuri Project Feni.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 5974275,
+          "width": 4000,
+          "height": 3000,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Muhuri_Project_Feni.jpg/1280px-Muhuri_Project_Feni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Muhuri_Project_Feni.jpg/3840px-Muhuri_Project_Feni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Muhuri_Project_Feni.jpg/1280px-Muhuri_Project_Feni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Muhuri_Project_Feni.jpg/3840px-Muhuri_Project_Feni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Muhuri_Project_Feni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Muhuri_Project_Feni.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152928942",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2024-09-20 19:57:12",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Muhuri Project Feni",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Files with coordinates missing SDC location of creation|Wiki Citrokothon - All images|Muhuri Project|Wiki Citrokothon - Without Category|Uploaded via Campaign:wiki-citrokothon",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.837116",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "91.453051",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Muhuri Project",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2024-09-20 13:02:49",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6_%E0%A6%9C%E0%A6%A8%E0%A6%BF_%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%87%E0%A6%A8\" title=\"User:মোহাম্মদ জনি হোসেন\">Md Joni Hossain</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 189512715,
+      "ns": 6,
+      "title": "File:বাংলাদেশ গেজেট, সাপ্তাহিক, ৪র্থ সপ্তাহ, জানুয়ারি ২০২১ - খণ্ড ১ (বিধিবদ্ধ প্রজ্ঞাপন).pdf",
+      "index": 11,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 236840,
+          "width": 1275,
+          "height": 2100,
+          "pagecount": 8,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F%2C_%E0%A6%B8%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95%2C_%E0%A7%AA%E0%A6%B0%E0%A7%8D%E0%A6%A5_%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9%2C_%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_-_%E0%A6%96%E0%A6%A3%E0%A7%8D%E0%A6%A1_%E0%A7%A7_%28%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AC%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%AA%E0%A6%A8%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1976,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F%2C_%E0%A6%B8%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95%2C_%E0%A7%AA%E0%A6%B0%E0%A7%8D%E0%A6%A5_%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9%2C_%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_-_%E0%A6%96%E0%A6%A3%E0%A7%8D%E0%A6%A1_%E0%A7%A7_%28%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AC%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%AA%E0%A6%A8%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1976
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F%2C_%E0%A6%B8%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95%2C_%E0%A7%AA%E0%A6%B0%E0%A7%8D%E0%A6%A5_%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9%2C_%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_-_%E0%A6%96%E0%A6%A3%E0%A7%8D%E0%A6%A1_%E0%A7%A7_%28%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AC%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%AA%E0%A6%A8%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F,_%E0%A6%B8%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%95,_%E0%A7%AA%E0%A6%B0%E0%A7%8D%E0%A6%A5_%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9,_%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A7_-_%E0%A6%96%E0%A6%A3%E0%A7%8D%E0%A6%A1_%E0%A7%A7_(%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AC%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%AA%E0%A6%A8).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=189512715",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2026-04-17 10:36:20",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "বাংলাদেশ গেজেট, সাপ্তাহিক, ৪র্থ সপ্তাহ, জানুয়ারি ২০২১ - খণ্ড ১ (বিধিবদ্ধ প্রজ্ঞাপন)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Uploaded with pypan|Bangladesh Weekly Gazette 2021 - Statutory notifications",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Statutory notifications containing rules and orders issued by all Ministries and Divisions of the Government of the People's Republic of Bangladesh and their attached and subordinate offices and the Supreme Court of Bangladesh.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2021-01-28",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Department_of_Printing_and_Publications\" class=\"extiw\" title=\"w:en:Department of Printing and Publications\"><span title=\"Bangladesh government department\">Department of Printing and Publications</span></a>\n</bdi>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Government_of_Bangladesh\" class=\"extiw\" title=\"w:en:Government of Bangladesh\"><span title=\"National government of Bangladesh\">Government of Bangladesh</span></a>\n</bdi>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "EdictGov-Bangladesh",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "EdictGov-Bangladesh",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 95514557,
+      "ns": 6,
+      "title": "File:UN Treaty Series - vol 919.pdf",
+      "index": 14,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 2379426,
+          "width": 1050,
+          "height": 1500,
+          "pagecount": 182,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/UN_Treaty_Series_-_vol_919.pdf/page1-960px-UN_Treaty_Series_-_vol_919.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1714,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/UN_Treaty_Series_-_vol_919.pdf/page1-960px-UN_Treaty_Series_-_vol_919.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1714
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/UN_Treaty_Series_-_vol_919.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:UN_Treaty_Series_-_vol_919.pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95514557",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-10-27 04:50:17",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "UN Treaty Series - vol 919",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-US-no notice-UN|United Nations Treaty Series registered in 1974|United Nations Treaty Series published in 1980",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Volume 919 of the United Nations Treaty Series",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1974",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://treaties.un.org/Pages/LatestVolumes.aspx\">https://treaties.un.org/Pages/LatestVolumes.aspx</a> → <a rel=\"nofollow\" class=\"external free\" href=\"https://treaties.un.org/doc/Publication/UNTS/Volume%20919/v919.pdf\">https://treaties.un.org/doc/Publication/UNTS/Volume%20919/v919.pdf</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Secretariat of the United Nations",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 97139474,
+      "ns": 6,
+      "title": "File:UN Treaty Series - vol 1206.pdf",
+      "index": 15,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 5731844,
+          "width": 1050,
+          "height": 1500,
+          "pagecount": 486,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/UN_Treaty_Series_-_vol_1206.pdf/page1-960px-UN_Treaty_Series_-_vol_1206.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1714,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/UN_Treaty_Series_-_vol_1206.pdf/page1-960px-UN_Treaty_Series_-_vol_1206.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1714
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/UN_Treaty_Series_-_vol_1206.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:UN_Treaty_Series_-_vol_1206.pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97139474",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-11-29 23:29:32",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "UN Treaty Series - vol 1206",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-UN-doc|United Nations Treaty Series published in 1987|United Nations Treaty Series registered in 1980",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Volume 1206 of the United Nations Treaty Series",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1980",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://treaties.un.org/Pages/LatestVolumes.aspx\">https://treaties.un.org/Pages/LatestVolumes.aspx</a> → <a rel=\"nofollow\" class=\"external free\" href=\"https://treaties.un.org/doc/Publication/UNTS/Volume%201206/v1206.pdf\">https://treaties.un.org/doc/Publication/UNTS/Volume%201206/v1206.pdf</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Secretariat of the United Nations",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 148300824,
+      "ns": 6,
+      "title": "File:Behar Herald 31-08-2016.pdf",
+      "index": 13,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 787242,
+          "width": 1500,
+          "height": 2250,
+          "pagecount": 4,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Behar_Herald_31-08-2016.pdf/page1-1280px-Behar_Herald_31-08-2016.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1800,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Behar_Herald_31-08-2016.pdf/page1-1280px-Behar_Herald_31-08-2016.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1800
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Behar_Herald_31-08-2016.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Behar_Herald_31-08-2016.pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148300824",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2024-05-13 09:05:13",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nBehar Herald</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Files with no machine-readable author|Uploaded with pattypan|Behar Herald|Supported by West Bengal Wikimedians User Group|Items with VRTS permission confirmed|Books without Wikidata item|Files generated by WBG equipment|Media contributed by Bengalee Association, Bihar|Scanned with WBG equipment CZUR ET18 Pro",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Credit": {
+              "value": "This file was generated using CZUR ET18 Pro scanner,  a equipment belonging to the <a href=\"https://meta.wikimedia.org/wiki/West_Bengal_Wikimedians\" class=\"extiw\" title=\"meta:West Bengal Wikimedians\">West Bengal Wikimedians User Group</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Attribution": {
+              "value": "Behar Herald",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 152928943,
+      "ns": 6,
+      "title": "File:Muhuri Project.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 6024986,
+          "width": 4000,
+          "height": 3000,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Muhuri_Project.jpg/1280px-Muhuri_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Muhuri_Project.jpg/3840px-Muhuri_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Muhuri_Project.jpg/1280px-Muhuri_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Muhuri_Project.jpg/3840px-Muhuri_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Muhuri_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Muhuri_Project.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152928943",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2024-09-20 19:57:12",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Muhuri Project",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Files with coordinates missing SDC location of creation|Wiki Citrokothon - All images|Muhuri Project|Wiki Citrokothon - Without Category|Uploaded via Campaign:wiki-citrokothon",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.837146",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "91.453039",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Muhuri Project",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2024-09-20 13:02:17",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6_%E0%A6%9C%E0%A6%A8%E0%A6%BF_%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%87%E0%A6%A8\" title=\"User:মোহাম্মদ জনি হোসেন\">Md Joni Hossain</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 152928944,
+      "ns": 6,
+      "title": "File:মুহুরী প্রজেক্ট.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 6048028,
+          "width": 4000,
+          "height": 3000,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F.jpg/1280px-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F.jpg/3840px-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F.jpg/1280px-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F.jpg/3840px-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152928944",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2024-09-20 19:57:13",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "মুহুরী প্রজেক্ট",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Files with coordinates missing SDC location of creation|Wiki Citrokothon - All images|Muhuri Project|Wiki Citrokothon - Without Category|Uploaded via Campaign:wiki-citrokothon",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "22.837180",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "91.453077",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Muhuri Project",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2024-09-20 13:02:37",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6_%E0%A6%9C%E0%A6%A8%E0%A6%BF_%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%87%E0%A6%A8\" title=\"User:মোহাম্মদ জনি হোসেন\">Md Joni Hossain</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}

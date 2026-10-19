@@ -1,0 +1,23 @@
+{
+  "landmark": "Nuhang_Jharna",
+  "district": "Khagrachhari",
+  "queries": [
+    {
+      "query": "Nuhang Jharna",
+      "total_hits": 0,
+      "retrieved": 0
+    },
+    {
+      "query": "Nuhang Waterfall Khagrachhari",
+      "total_hits": 0,
+      "retrieved": 0
+    },
+    {
+      "query": "Nuhang Bangladesh",
+      "total_hits": 0,
+      "retrieved": 0
+    }
+  ],
+  "unique_files_retrieved": 0,
+  "files": []
+}

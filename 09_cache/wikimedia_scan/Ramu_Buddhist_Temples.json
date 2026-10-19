@@ -1,0 +1,1989 @@
+{
+  "landmark": "Ramu_Buddhist_Temples",
+  "district": "Coxs_Bazar",
+  "queries": [
+    {
+      "query": "Ramu Buddhist Temple",
+      "total_hits": 0,
+      "retrieved": 20
+    },
+    {
+      "query": "Ramu Buddhist Temples Bangladesh",
+      "total_hits": 0,
+      "retrieved": 2
+    },
+    {
+      "query": "Ramu Buddhist temple Cox's Bazar",
+      "total_hits": 0,
+      "retrieved": 2
+    }
+  ],
+  "unique_files_retrieved": 20,
+  "files": [
+    {
+      "pageid": 3547105,
+      "ns": 6,
+      "title": "File:Ramu.JPG",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 252762,
+          "width": 1024,
+          "height": 768,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ramu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ramu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ramu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ramu.JPG",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3547105",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2008-02-13 04:53:00",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Ramu",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Taken with Canon PowerShot A540|Buddhist temples in Bangladesh|License migration redundant|Ramu Upazila|Self-published work|FoP-Bangladesh|Files with coordinates missing SDC location of creation",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "21.429270",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "92.109020",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "U Chit San, a Rakhine Buddhist temple in Ramu near Cox's Bazar.",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Ekramul Islam Tuhin",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 91753188,
+      "ns": 6,
+      "title": "File:A view of the history, literature, and religion of the Hindoos; including a minute description of their manners and customs, and translations from their principal works (IA viewofhistorylit00ward).pdf",
+      "index": 17,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 61919776,
+          "width": 1433,
+          "height": 2202,
+          "pagecount": 552,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/A_view_of_the_history%2C_literature%2C_and_religion_of_the_Hindoos%3B_including_a_minute_description_of_their_manners_and_customs%2C_and_translations_from_their_principal_works_%28IA_viewofhistorylit00ward%29.pdf/page1-1280px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1844,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/A_view_of_the_history%2C_literature%2C_and_religion_of_the_Hindoos%3B_including_a_minute_description_of_their_manners_and_customs%2C_and_translations_from_their_principal_works_%28IA_viewofhistorylit00ward%29.pdf/page1-1280px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1844
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/A_view_of_the_history%2C_literature%2C_and_religion_of_the_Hindoos%3B_including_a_minute_description_of_their_manners_and_customs%2C_and_translations_from_their_principal_works_%28IA_viewofhistorylit00ward%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_view_of_the_history,_literature,_and_religion_of_the_Hindoos;_including_a_minute_description_of_their_manners_and_customs,_and_translations_from_their_principal_works_(IA_viewofhistorylit00ward).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91753188",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-06-30 16:06:07",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nA view of the history, literature, and religion of the Hindoos; including a minute description of their manners and customs, and translations from their principal works</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD US expired|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nWard, William, 1769-1823. [from old catalog]</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\nSubjects: Hindus; Sanskrit literature. [from old catalog]; Hindu mythology</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/viewofhistorylit00ward\">https://archive.org/details/viewofhistorylit00ward</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/viewofhistorylit00ward/viewofhistorylit00ward.pdf\">https://archive.org/download/viewofhistorylit00ward/viewofhistorylit00ward.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 92628928,
+      "ns": 6,
+      "title": "File:Travels in Kashmir, Ladak, Iskardo, the countries adjoining the mountain-course of the Indus, and the Himalaya, north of the Panjab (IA b29350402 0002).pdf",
+      "index": 8,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 36460835,
+          "width": 1216,
+          "height": 1972,
+          "pagecount": 512,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Travels_in_Kashmir%2C_Ladak%2C_Iskardo%2C_the_countries_adjoining_the_mountain-course_of_the_Indus%2C_and_the_Himalaya%2C_north_of_the_Panjab_%28IA_b29350402_0002%29.pdf/page1-960px-Travels_in_Kashmir%2C_Ladak%2C_Iskardo%2C_the_countries_adjoining_the_mountain-course_of_the_Indus%2C_and_the_Himalaya%2C_north_of_the_Panjab_%28IA_b29350402_0002%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1946,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Travels_in_Kashmir%2C_Ladak%2C_Iskardo%2C_the_countries_adjoining_the_mountain-course_of_the_Indus%2C_and_the_Himalaya%2C_north_of_the_Panjab_%28IA_b29350402_0002%29.pdf/page1-960px-Travels_in_Kashmir%2C_Ladak%2C_Iskardo%2C_the_countries_adjoining_the_mountain-course_of_the_Indus%2C_and_the_Himalaya%2C_north_of_the_Panjab_%28IA_b29350402_0002%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1946
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Travels_in_Kashmir%2C_Ladak%2C_Iskardo%2C_the_countries_adjoining_the_mountain-course_of_the_Indus%2C_and_the_Himalaya%2C_north_of_the_Panjab_%28IA_b29350402_0002%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Travels_in_Kashmir,_Ladak,_Iskardo,_the_countries_adjoining_the_mountain-course_of_the_Indus,_and_the_Himalaya,_north_of_the_Panjab_(IA_b29350402_0002).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92628928",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-07-26 19:40:39",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nTravels in Kashmir, Ladak, Iskardo, the countries adjoining the mountain-course of the Indus, and the Himalaya, north of the Panjab</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|Medical Heritage Library|PD-old missing SDC copyright status|Travels in Kashmir, Ladak, Iskardo, the countries adjoining the Mountain-Course of the Indus, and the Himalaya, North of the Panjab (1842)",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nVigne, Godfrey Thomas, 1801-1863. n 82059242</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\nSubjects: Travel</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/b29350402_0002\" class=\"extiw\" title=\"iarchive:b29350402 0002\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: b29350402_0002</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/b29350402_0002/b29350402_0002.pdf\">https://archive.org/download/b29350402_0002/b29350402_0002.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\">PDM</a> This work is available under the Creative Commons, Public Domain Mark",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 93070758,
+      "ns": 6,
+      "title": "File:The first report of the London Missionary Society's Chinese Hospital, at Peking (electronic resource) - from October 1st 1861, to December 31st 1862 (IA b21472622).pdf",
+      "index": 7,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 1371185,
+          "width": 920,
+          "height": 1381,
+          "pagecount": 34,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/The_first_report_of_the_London_Missionary_Society%27s_Chinese_Hospital%2C_at_Peking_%28electronic_resource%29_-_from_October_1st_1861%2C_to_December_31st_1862_%28IA_b21472622%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1801,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/The_first_report_of_the_London_Missionary_Society%27s_Chinese_Hospital%2C_at_Peking_%28electronic_resource%29_-_from_October_1st_1861%2C_to_December_31st_1862_%28IA_b21472622%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1801
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/The_first_report_of_the_London_Missionary_Society%27s_Chinese_Hospital%2C_at_Peking_%28electronic_resource%29_-_from_October_1st_1861%2C_to_December_31st_1862_%28IA_b21472622%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_first_report_of_the_London_Missionary_Society%27s_Chinese_Hospital,_at_Peking_(electronic_resource)_-_from_October_1st_1861,_to_December_31st_1862_(IA_b21472622).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93070758",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-08-12 09:01:48",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nThe first report of the London Missionary Society's Chinese Hospital, at Peking [electronic resource] : from October 1st 1861, to December 31st 1862</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Medical Heritage Library|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\n<dl><dd>Lockhart, William</dd>\n<dd>London Missionary Society</dd>\n<dd>University of Glasgow. Library</dd></dl></div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\n<dl><dd>This material has been provided by The University of Glasgow Library. The original may be consulted at The University of Glasgow Library</dd>\n<dd>The University of Glasgow Library</dd></dl>\n<br>Subjects: Missions, Medical</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/b21472622\" class=\"extiw\" title=\"iarchive:b21472622\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: b21472622</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/b21472622/b21472622.pdf\">https://archive.org/download/b21472622/b21472622.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\">PDM</a> This work is available under the Creative Commons, Public Domain Mark",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 93319344,
+      "ns": 6,
+      "title": "File:Description of the skull of a dentigerous bird (Odontopteryx toliapicus, Ow.) from the London clay of Sheppey (IA b22455462).pdf",
+      "index": 19,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 1200596,
+          "width": 1329,
+          "height": 2085,
+          "pagecount": 27,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Description_of_the_skull_of_a_dentigerous_bird_%28Odontopteryx_toliapicus%2C_Ow.%29_from_the_London_clay_of_Sheppey_%28IA_b22455462%29.pdf/page1-1280px-Description_of_the_skull_of_a_dentigerous_bird_%28Odontopteryx_toliapicus%2C_Ow.%29_from_the_London_clay_of_Sheppey_%28IA_b22455462%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1883,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Description_of_the_skull_of_a_dentigerous_bird_%28Odontopteryx_toliapicus%2C_Ow.%29_from_the_London_clay_of_Sheppey_%28IA_b22455462%29.pdf/page1-1280px-Description_of_the_skull_of_a_dentigerous_bird_%28Odontopteryx_toliapicus%2C_Ow.%29_from_the_London_clay_of_Sheppey_%28IA_b22455462%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1883
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Description_of_the_skull_of_a_dentigerous_bird_%28Odontopteryx_toliapicus%2C_Ow.%29_from_the_London_clay_of_Sheppey_%28IA_b22455462%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Description_of_the_skull_of_a_dentigerous_bird_(Odontopteryx_toliapicus,_Ow.)_from_the_London_clay_of_Sheppey_(IA_b22455462).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93319344",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-08-20 01:35:31",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nDescription of the skull of a dentigerous bird (Odontopteryx toliapicus, Ow.) from the London clay of Sheppey</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|Medical Heritage Library|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nRoyal College of Surgeons of England</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\n<p>The Royal College of Surgeons of England\n</p>\n<br>Subjects: Fossils</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/b22455462\" class=\"extiw\" title=\"iarchive:b22455462\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: b22455462</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/b22455462/b22455462.pdf\">https://archive.org/download/b22455462/b22455462.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\">PDM</a> This work is available under the Creative Commons, Public Domain Mark",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 94734840,
+      "ns": 6,
+      "title": "File:Abridgement of the History of India from the earliest period to the present time (IA abridgementofhis00marsrich).pdf",
+      "index": 9,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 40831702,
+          "width": 700,
+          "height": 1100,
+          "pagecount": 636,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Abridgement_of_the_History_of_India_from_the_earliest_period_to_the_present_time_%28IA_abridgementofhis00marsrich%29.pdf/page1-500px-Abridgement_of_the_History_of_India_from_the_earliest_period_to_the_present_time_%28IA_abridgementofhis00marsrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1886,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Abridgement_of_the_History_of_India_from_the_earliest_period_to_the_present_time_%28IA_abridgementofhis00marsrich%29.pdf/page1-500px-Abridgement_of_the_History_of_India_from_the_earliest_period_to_the_present_time_%28IA_abridgementofhis00marsrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1886
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Abridgement_of_the_History_of_India_from_the_earliest_period_to_the_present_time_%28IA_abridgementofhis00marsrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Abridgement_of_the_History_of_India_from_the_earliest_period_to_the_present_time_(IA_abridgementofhis00marsrich).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94734840",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-10-04 13:29:06",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nAbridgement of the History of India from the earliest period to the present time</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "History of India|Books about India|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|1905 books from Edinburgh",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nMarshman, John Clark, 1794-1877</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\nSubjects: India -- History</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/abridgementofhis00marsrich\" class=\"extiw\" title=\"iarchive:abridgementofhis00marsrich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: abridgementofhis00marsrich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/abridgementofhis00marsrich/abridgementofhis00marsrich.pdf\">https://archive.org/download/abridgementofhis00marsrich/abridgementofhis00marsrich.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 94765803,
+      "ns": 6,
+      "title": "File:California Digital Library (IA alphaorfirstprin00denniala).pdf",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 20301670,
+          "width": 741,
+          "height": 1279,
+          "pagecount": 432,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/California_Digital_Library_%28IA_alphaorfirstprin00denniala%29.pdf/page1-500px-California_Digital_Library_%28IA_alphaorfirstprin00denniala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 2071,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/California_Digital_Library_%28IA_alphaorfirstprin00denniala%29.pdf/page1-500px-California_Digital_Library_%28IA_alphaorfirstprin00denniala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 2071
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/California_Digital_Library_%28IA_alphaorfirstprin00denniala%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:California_Digital_Library_(IA_alphaorfirstprin00denniala).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94765803",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-10-05 09:38:57",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nThe alpha, or First principle of the human mind; as revealed to Ramus Randolph in a reverie, and verified to his satisfaction in a dream: being a philosophical inquiry into the constitution of human happiness and the nature of truth</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nDennys, Edward Nichols</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\nSubjects:</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/alphaorfirstprin00denniala\" class=\"extiw\" title=\"iarchive:alphaorfirstprin00denniala\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: alphaorfirstprin00denniala</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/alphaorfirstprin00denniala/alphaorfirstprin00denniala.pdf\">https://archive.org/download/alphaorfirstprin00denniala/alphaorfirstprin00denniala.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 94904928,
+      "ns": 6,
+      "title": "File:Catalogue of the economic products of the Presidency of Bombay - being a catalogue of the Government Central Museum, Division 1., Raw produce (vegetable) (IA catalogueofecono00bombrich).pdf",
+      "index": 15,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 27938236,
+          "width": 731,
+          "height": 1239,
+          "pagecount": 386,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Catalogue_of_the_economic_products_of_the_Presidency_of_Bombay_-_being_a_catalogue_of_the_Government_Central_Museum%2C_Division_1.%2C_Raw_produce_%28vegetable%29_%28IA_catalogueofecono00bombrich%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 2034,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Catalogue_of_the_economic_products_of_the_Presidency_of_Bombay_-_being_a_catalogue_of_the_Government_Central_Museum%2C_Division_1.%2C_Raw_produce_%28vegetable%29_%28IA_catalogueofecono00bombrich%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 2034
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Catalogue_of_the_economic_products_of_the_Presidency_of_Bombay_-_being_a_catalogue_of_the_Government_Central_Museum%2C_Division_1.%2C_Raw_produce_%28vegetable%29_%28IA_catalogueofecono00bombrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catalogue_of_the_economic_products_of_the_Presidency_of_Bombay_-_being_a_catalogue_of_the_Government_Central_Museum,_Division_1.,_Raw_produce_(vegetable)_(IA_catalogueofecono00bombrich).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94904928",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-10-09 21:53:49",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nCatalogue of the economic products of the Presidency of Bombay : being a catalogue of the Government Central Museum, Division 1., Raw produce (vegetable)</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\n<dl><dd>Bombay (Presidency). Government Central Museum</dd>\n<dd>Birdwood, George C. M. (George Christopher Molesworth), Sir, 1832-1917</dd></dl></div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\n<p>Bibliography: p. 7-8 of preliminaries\n</p>\n<br>Subjects: Bombay (Presidency). Government Central Museum; Botany, Economic -- India Gujarat (State); Botany, Economic -- India Maharashtra (State); Botany, Medical -- India Gujarat (State); Botany, Medical -- India Maharashtra (State); Plant names, Popular -- Asia</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/catalogueofecono00bombrich\" class=\"extiw\" title=\"iarchive:catalogueofecono00bombrich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: catalogueofecono00bombrich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/catalogueofecono00bombrich/catalogueofecono00bombrich.pdf\">https://archive.org/download/catalogueofecono00bombrich/catalogueofecono00bombrich.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 95563108,
+      "ns": 6,
+      "title": "File:Japan today (IA japantoday00scherich).pdf",
+      "index": 10,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 17617083,
+          "width": 712,
+          "height": 1122,
+          "pagecount": 394,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Japan_today_%28IA_japantoday00scherich%29.pdf/page1-500px-Japan_today_%28IA_japantoday00scherich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1891,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Japan_today_%28IA_japantoday00scherich%29.pdf/page1-500px-Japan_today_%28IA_japantoday00scherich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1891
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Japan_today_%28IA_japantoday00scherich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Japan_today_(IA_japantoday00scherich).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95563108",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-10-28 12:18:13",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nJapan today</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "James Augustin Brown Scherer|Books about Japan|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nScherer, James A. B. (James Augustin Brown), 1870-1944</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\nSubjects: Japan -- Description and travel; Japan -- Social life and customs</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/japantoday00scherich\" class=\"extiw\" title=\"iarchive:japantoday00scherich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: japantoday00scherich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/japantoday00scherich/japantoday00scherich.pdf\">https://archive.org/download/japantoday00scherich/japantoday00scherich.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 95612935,
+      "ns": 6,
+      "title": "File:The land of tawny beasts (IA landoftawnybeast00marich).pdf",
+      "index": 20,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 20661690,
+          "width": 891,
+          "height": 1379,
+          "pagecount": 314,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/The_land_of_tawny_beasts_%28IA_landoftawnybeast00marich%29.pdf/page1-500px-The_land_of_tawny_beasts_%28IA_landoftawnybeast00marich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1857,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/The_land_of_tawny_beasts_%28IA_landoftawnybeast00marich%29.pdf/page1-500px-The_land_of_tawny_beasts_%28IA_landoftawnybeast00marich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1857
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_land_of_tawny_beasts_%28IA_landoftawnybeast00marich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_land_of_tawny_beasts_(IA_landoftawnybeast00marich).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95612935",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-10-29 19:29:18",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nThe land of tawny beasts</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|PD-US missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nMaël, Pierre</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\nSubjects:</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/landoftawnybeast00marich\" class=\"extiw\" title=\"iarchive:landoftawnybeast00marich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: landoftawnybeast00marich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/landoftawnybeast00marich/landoftawnybeast00marich.pdf\">https://archive.org/download/landoftawnybeast00marich/landoftawnybeast00marich.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 96140744,
+      "ns": 6,
+      "title": "File:The Modern Review Vol 3 (January to June 1908).pdf",
+      "index": 14,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 295265999,
+          "width": 1031,
+          "height": 1447,
+          "pagecount": 659,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/The_Modern_Review_Vol_3_%28January_to_June_1908%29.pdf/page1-960px-The_Modern_Review_Vol_3_%28January_to_June_1908%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1684,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/The_Modern_Review_Vol_3_%28January_to_June_1908%29.pdf/page1-960px-The_Modern_Review_Vol_3_%28January_to_June_1908%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1684
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/The_Modern_Review_Vol_3_%28January_to_June_1908%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Modern_Review_Vol_3_(January_to_June_1908).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96140744",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-11-15 03:06:00",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "The Modern Review Vol 3 (January to June 1908)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-70-expired|Images with extracted images|CC-PD-Mark|PD-old missing SDC copyright status|English Books uploaded by User Hrishikes|The Modern Review (1908)",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "The Modern Review Vol 3 (January to June 1908)",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1908",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://babel.hathitrust.org/cgi/pt?id=uiug.30112109532835\">Hathitrust</a> and <a rel=\"nofollow\" class=\"external text\" href=\"http://nlirepository.nvli.in/handle/123456789/9733\">National Library of India</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Ramananda Chatterjee",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 96884574,
+      "ns": 6,
+      "title": "File:Travels in Kashmir, Ladak, Iskardo, the countries adjoining the mountain-course of the Indus, and the Himalaya, north of the Panjab (IA travelsinkashmir02vign).pdf",
+      "index": 16,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 24550323,
+          "width": 654,
+          "height": 981,
+          "pagecount": 500,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Travels_in_Kashmir%2C_Ladak%2C_Iskardo%2C_the_countries_adjoining_the_mountain-course_of_the_Indus%2C_and_the_Himalaya%2C_north_of_the_Panjab_%28IA_travelsinkashmir02vign%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1800,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Travels_in_Kashmir%2C_Ladak%2C_Iskardo%2C_the_countries_adjoining_the_mountain-course_of_the_Indus%2C_and_the_Himalaya%2C_north_of_the_Panjab_%28IA_travelsinkashmir02vign%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1800
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Travels_in_Kashmir%2C_Ladak%2C_Iskardo%2C_the_countries_adjoining_the_mountain-course_of_the_Indus%2C_and_the_Himalaya%2C_north_of_the_Panjab_%28IA_travelsinkashmir02vign%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Travels_in_Kashmir,_Ladak,_Iskardo,_the_countries_adjoining_the_mountain-course_of_the_Indus,_and_the_Himalaya,_north_of_the_Panjab_(IA_travelsinkashmir02vign).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96884574",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-11-25 20:09:55",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nTravels in Kashmir, Ladak, Iskardo, the countries adjoining the mountain-course of the Indus, and the Himalaya, north of the Panjab</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "1842 books|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|IA books of at least 500 pages|Travels in Kashmir, Ladak, Iskardo, the countries adjoining the Mountain-Course of the Indus, and the Himalaya, North of the Panjab (1842)",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nVigne, Godfrey Thomas, 1801-1863</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\nSubjects: Jammu and Kashmir (India) -- Description and travel</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/travelsinkashmir02vign\" class=\"extiw\" title=\"iarchive:travelsinkashmir02vign\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: travelsinkashmir02vign</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/travelsinkashmir02vign/travelsinkashmir02vign.pdf\">https://archive.org/download/travelsinkashmir02vign/travelsinkashmir02vign.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 97637710,
+      "ns": 6,
+      "title": "File:Journals Kept In Hyderabad, Kashmir, Sikkim, And Nepal Vol-Ii (IA JournalsKeptInHyderabadKashmirSikkimAndNepalVolII).pdf",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 22809581,
+          "width": 618,
+          "height": 258,
+          "pagecount": 323,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Journals_Kept_In_Hyderabad%2C_Kashmir%2C_Sikkim%2C_And_Nepal_Vol-Ii_%28IA_JournalsKeptInHyderabadKashmirSikkimAndNepalVolII%29.pdf/page1-500px-Journals_Kept_In_Hyderabad%2C_Kashmir%2C_Sikkim%2C_And_Nepal_Vol-Ii_%28IA_JournalsKeptInHyderabadKashmirSikkimAndNepalVolII%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 501,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Journals_Kept_In_Hyderabad%2C_Kashmir%2C_Sikkim%2C_And_Nepal_Vol-Ii_%28IA_JournalsKeptInHyderabadKashmirSikkimAndNepalVolII%29.pdf/page1-500px-Journals_Kept_In_Hyderabad%2C_Kashmir%2C_Sikkim%2C_And_Nepal_Vol-Ii_%28IA_JournalsKeptInHyderabadKashmirSikkimAndNepalVolII%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 501
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Journals_Kept_In_Hyderabad%2C_Kashmir%2C_Sikkim%2C_And_Nepal_Vol-Ii_%28IA_JournalsKeptInHyderabadKashmirSikkimAndNepalVolII%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Journals_Kept_In_Hyderabad,_Kashmir,_Sikkim,_And_Nepal_Vol-Ii_(IA_JournalsKeptInHyderabadKashmirSikkimAndNepalVolII).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97637710",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-12-16 07:04:30",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nJournals Kept In Hyderabad, Kashmir, Sikkim, And  Nepal   Vol-Ii</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Universal Library Project|Journals kept in Hyderabad, Kashmir, Sikkim, and Nepal (1887)",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nSir Richard Temple</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\nSubjects: History</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/JournalsKeptInHyderabadKashmirSikkimAndNepalVolII\" class=\"extiw\" title=\"iarchive:JournalsKeptInHyderabadKashmirSikkimAndNepalVolII\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: JournalsKeptInHyderabadKashmirSikkimAndNepalVolII</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/JournalsKeptInHyderabadKashmirSikkimAndNepalVolII/JournalsKeptInHyderabadKashmirSikkimAndNepalVolII.pdf\">https://archive.org/download/JournalsKeptInHyderabadKashmirSikkimAndNepalVolII/JournalsKeptInHyderabadKashmirSikkimAndNepalVolII.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 97776125,
+      "ns": 6,
+      "title": "File:The Open court (IA opencourt sept1926caru).pdf",
+      "index": 12,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 4974480,
+          "width": 872,
+          "height": 1327,
+          "pagecount": 78,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Open_court_%28IA_opencourt_sept1926caru%29.pdf/page1-500px-The_Open_court_%28IA_opencourt_sept1926caru%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1826,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Open_court_%28IA_opencourt_sept1926caru%29.pdf/page1-500px-The_Open_court_%28IA_opencourt_sept1926caru%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1826
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Open_court_%28IA_opencourt_sept1926caru%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Open_court_(IA_opencourt_sept1926caru).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97776125",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-12-18 21:18:06",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nThe Open court</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status|The open court, 1926|Books scanned by Southern Illinois University Carbondale",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\n<dl><dd>Carus, Paul, 1852-1919</dd>\n<dd>Open Court Publishing company, Chicago</dd></dl></div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\n<dl><dd>Poole's index to periodical literature</dd>\n<dd>Issues for  called also nos. &lt;524-907&gt;</dd>\n<dd>Vol. 1 (1887)-v. 20 (1906). 1 v</dd>\n<dd>Editor: Feb. 1887-1919, Paul Carus</dd></dl>\n<br>Subjects: Religion; Religion and science</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/opencourt_sept1926caru\" class=\"extiw\" title=\"iarchive:opencourt sept1926caru\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: opencourt_sept1926caru</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/opencourt_sept1926caru/opencourt_sept1926caru.pdf\">https://archive.org/download/opencourt_sept1926caru/opencourt_sept1926caru.pdf</a></dd></dl>\n<ul><li>IA contributor: Morris Library, Southern Illinois University Carbondale</li>\n<li>IA digitizing sponsor: CARLI: Consortium of Academic and Research Libraries in Illinois</li></ul>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 97972347,
+      "ns": 6,
+      "title": "File:Jacob at Bethel - the vision-the stone-the anointing - an essay in comparative religion (IA cu31924029111306).pdf",
+      "index": 18,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 4682243,
+          "width": 622,
+          "height": 914,
+          "pagecount": 204,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Jacob_at_Bethel_-_the_vision-the_stone-the_anointing_-_an_essay_in_comparative_religion_%28IA_cu31924029111306%29.pdf/page1-500px-Jacob_at_Bethel_-_the_vision-the_stone-the_anointing_-_an_essay_in_comparative_religion_%28IA_cu31924029111306%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1763,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Jacob_at_Bethel_-_the_vision-the_stone-the_anointing_-_an_essay_in_comparative_religion_%28IA_cu31924029111306%29.pdf/page1-500px-Jacob_at_Bethel_-_the_vision-the_stone-the_anointing_-_an_essay_in_comparative_religion_%28IA_cu31924029111306%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1763
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jacob_at_Bethel_-_the_vision-the_stone-the_anointing_-_an_essay_in_comparative_religion_%28IA_cu31924029111306%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jacob_at_Bethel_-_the_vision-the_stone-the_anointing_-_an_essay_in_comparative_religion_(IA_cu31924029111306).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97972347",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-12-23 04:16:19",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nJacob at Bethel : the vision--the stone--the anointing : an essay in comparative religion</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books published in London|Abram Smythe Palmer|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nPalmer, Abram Smythe</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/about/faqs.php#140\">https://archive.org/about/faqs.php#140</a>\" rel=\"nofollow\"&gt;What is the directory structure for the texts?&lt;/a&gt; FAQ for information about file content and naming conventions.</dd>\n<dd>Includes bibliographical references and index</dd></dl>\n<br>Subjects: Jacob (Biblical patriarch); Rocks; Unction</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/cu31924029111306\" class=\"extiw\" title=\"iarchive:cu31924029111306\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924029111306</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924029111306/cu31924029111306.pdf\">https://archive.org/download/cu31924029111306/cu31924029111306.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 98083864,
+      "ns": 6,
+      "title": "File:Annual report (IA annualreport1947bost).pdf",
+      "index": 13,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 3935296,
+          "width": 845,
+          "height": 1352,
+          "pagecount": 100,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Annual_report_%28IA_annualreport1947bost%29.pdf/page1-500px-Annual_report_%28IA_annualreport1947bost%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1920,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Annual_report_%28IA_annualreport1947bost%29.pdf/page1-500px-Annual_report_%28IA_annualreport1947bost%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1920
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Annual_report_%28IA_annualreport1947bost%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Annual_report_(IA_annualreport1947bost).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98083864",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-12-26 10:59:51",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nAnnual report</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books from American Libraries|Books published in Boston|Books from the United States PDF files|Books scanned by Boston Public Library",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nBoston Public Library</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\n<dl><dd>37th report, 1889, has atlas of plates (35 cm.) illustrating new building</dd>\n<dd>51st report, 1902/3 has index to reports 1-51</dd></dl>\n<br>Subjects: Boston Public Library</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/annualreport1947bost\" class=\"extiw\" title=\"iarchive:annualreport1947bost\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: annualreport1947bost</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/annualreport1947bost/annualreport1947bost.pdf\">https://archive.org/download/annualreport1947bost/annualreport1947bost.pdf</a></dd></dl>\n<ul><li>IA contributor: Boston Public Library</li></ul>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 106400979,
+      "ns": 6,
+      "title": "File:Travels In Kashmir, Ladak Iskardo Vol 2 (IA dli.pahar.0294).pdf",
+      "index": 11,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 12342283,
+          "width": 787,
+          "height": 1245,
+          "pagecount": 487,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Travels_In_Kashmir%2C_Ladak_Iskardo_Vol_2_%28IA_dli.pahar.0294%29.pdf/page1-500px-Travels_In_Kashmir%2C_Ladak_Iskardo_Vol_2_%28IA_dli.pahar.0294%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1898,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Travels_In_Kashmir%2C_Ladak_Iskardo_Vol_2_%28IA_dli.pahar.0294%29.pdf/page1-500px-Travels_In_Kashmir%2C_Ladak_Iskardo_Vol_2_%28IA_dli.pahar.0294%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1898
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Travels_In_Kashmir%2C_Ladak_Iskardo_Vol_2_%28IA_dli.pahar.0294%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Travels_In_Kashmir,_Ladak_Iskardo_Vol_2_(IA_dli.pahar.0294).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106400979",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-06-08 22:12:25",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nTravels In Kashmir, Ladak Iskardo Vol 2</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Bharat Ek Khoj|PD-old missing SDC copyright status|Books about Kashmir (pre-1940s)",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nVigne S</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\n<p>This book was copied from the amazing and wonderful &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://pahar.in\">http://pahar.in</a>\" rel=\"nofollow\"&gt;PAHAR: Mountains of Central Asia Digital Dataset,&lt;/a&gt; a labor of love by two dedicated and talented historians. We encourage you to visit them, and subscribe to their list for updates on new books as they are uploaded.\n</p>\n<br>Subjects: pahar.in</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/dli.pahar.0294\" class=\"extiw\" title=\"iarchive:dli.pahar.0294\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: dli.pahar.0294</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/dli.pahar.0294/1842%20Travels%20In%20Kashmir%2C%20Ladak%20Iskardo%20Vol%202%20By%20Vigne%20S.pdf\">https://archive.org/download/dli.pahar.0294/1842%20Travels%20In%20Kashmir%2C%20Ladak%20Iskardo%20Vol%202%20By%20Vigne%20S.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 127975840,
+      "ns": 6,
+      "title": "File:Netaji Papers MEA TOK-102-2-03.pdf",
+      "index": 6,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 81768443,
+          "width": 2629,
+          "height": 1931,
+          "pagecount": 488,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Netaji_Papers_MEA_TOK-102-2-03.pdf/page1-1280px-Netaji_Papers_MEA_TOK-102-2-03.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 881,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Netaji_Papers_MEA_TOK-102-2-03.pdf/page1-1920px-Netaji_Papers_MEA_TOK-102-2-03.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Netaji_Papers_MEA_TOK-102-2-03.pdf/page1-1280px-Netaji_Papers_MEA_TOK-102-2-03.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 881,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Netaji_Papers_MEA_TOK-102-2-03.pdf/page1-1920px-Netaji_Papers_MEA_TOK-102-2-03.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Netaji_Papers_MEA_TOK-102-2-03.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Netaji_Papers_MEA_TOK-102-2-03.pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127975840",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2023-01-21 17:53:50",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Netaji Papers TOK/102/2/03</i></div></div><div style=\"display: none;\">label QS:Len,\"Netaji Papers TOK/102/2/03\"</div></div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "CC-Zero|Files with no machine-readable author|Files with no machine-readable source|Netaji Subhas Chandra Bose papers|Books with Wikidata item|Uploaded with OpenRefine|PD Netajipapers|Media files uploaded during Subhas Chandra Bose's 125th birth anniversary Wikimedia celebration|Artworks digital representation of unknown type of work|Subhas Chandra Bose enquiry commission reports",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "pageid": 135110602,
+      "ns": 6,
+      "title": "File:Min Bin.jpg",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 135475,
+          "width": 1024,
+          "height": 683,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Min_Bin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1200,
+          "thumbheight": 800,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Min_Bin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 800
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Min_Bin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Min_Bin.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=135110602",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2023-07-28 02:27:15",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Min Bin",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Kings of Arakan",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<span style=\"font-family:Pyidaungsu, 'Myanmar Text', 'Noto Sans Myanmar', Myanmar3, Padauk, Parabaik, TharLon, 'Masterpiece Uni Sans', 'Win Uni Innwa', 'MyMyanmar Unicode', 'WinUni Innwa', Myanmar2, Myanmar1\">King of Arakan\n<p>Min Bin (Arakanese and Burmese: မင်းဘင်, Burmese pronunciation: [mɪ́ɰ̃ bɪ̀ɰ̃], [máɰ̃ bàɰ̃]; also known as Min Ba-Gyi (မင်းဗာကြီး, Burmese pronunciation: [mɪ́ɰ̃ bàjí], Meng Ba-Gri, Arakanese pronunciation: [máɰ̃ bà ɡɹí]); 1493–1554) was a king of Arakan from 1531 to 1554, \"whose reign witnessed the country's emergence as a major power\". Aided by Portuguese mercenaries and their firearms, his powerful navy and army pushed the boundaries of the kingdom deep into Bengal, where coins bearing his name and styling him sultan were struck, and even interfered in the affairs of mainland Burma.\n</p><p>Quick Facts Min Bin မင်းပင် Zabuk Shah (ဇာပေါက်သျှာ), King of Arakan ...\n</p><p>This article contains Burmese script. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Burmese script.\nIn this Burmese name, Min is an honorific, not a given name.\nAfter his initial military successes against Bengal and Tripura (1532–34), Min Bin began to regard himself \"as a world conqueror or cakravartin\", and in commemoration of his victory in Bengal he built the Shitthaung Temple, one of the premier Buddhist pagodas of Mrauk-U. His expansionist drive was to run into serious obstacles however. His control of Bengal beyond Chittagong was largely nominal and he, like the sultans of Bengal before him, never solved Tripuri raids into Bengal. Moreover, his interference in Lower Burma (1542) against Toungoo provoked Toungoo invasions in (1545–47) that nearly toppled his regime. He survived the invasions and later provided military aid to Ava, hoping to stop Toungoo's advance into Upper Burma.\n</p><p>The king died in January 1554, and was succeeded by his eldest son and heir apparent Min Dikkha. His legacy lived on. The defensive works he built up throughout the kingdom would deter another Toungoo invasion until 1580. He is also credited with creating a naval fleet that dominated the Bay of Bengal, which in the following century would enable Arakan to control the entire 1600-km coastline from the Sundarbans to the Gulf of Martaban. His 22-year reign transformed Mrauk-U into a major regional power, a status which Mrauk-U would maintain well into the second half of the 17th century.\n</p><p>Early life\nThe future king was born Min Pa (မင်းပါ) to Crown Prince Raza of Mrauk-U and Princess Saw Nandi in 1493. His parents were first cousins; his mother was a daughter of Raza's maternal uncle. He had at least one younger brother named Min Aung Hla, and many half-siblings. In 1502, his grandfather King Salingathu died, and his father succeeded the throne. As king, his father raised three new queens, and made his mother just a minor queen. A few years later, the king appointed Min Pa as a general in the army.\n</p><p>Rise to power\nIn 1513, Raza was overthrown by Gazapati, another son by a concubine. Although Min Pa was older than Gazapati and had a more legitimate claim to the throne, he stayed out of the limelight. He managed to survive intrigues and power struggles at the court which saw three different kings (Gazapati, Saw O and Thazata) in the next eight years. In 1521, King Thazata died, and the king's younger brother Minkhaung succeeded in getting the throne. Though he lost out the throne to Minkhaung, Min Pa however managed to get appointed as the new governor of Thandwe (Sandoway), the second most important city in the kingdom. At Thandwe, Min Pa patiently built a loyal following, and collected arms. Ten years later, he revolted, and marched to Mrauk-U with land and naval forces. At Mrauk-U, his forces defeated the king's army, and he had Minkhaung executed.\n</p><p><br>\nKing Min Ban Statue\nReign\nConsolidation\nMin Bin ascended to the throne on Saturday, 27 May 1531, with the royal styles of Thiri Thuriya Sanda Maha Dhamma Yaza and Zabuk Shah. As someone who came to power by force, the new king immediately issued a decree to raise the defenses of Mrauk-U. (In the following decade, the capital Mrauk-U would get an elaborate defensive works consisted of massive stone walls and a deep moat filled with tidal waters. The defense works were later extended to the rest of the kingdom, as after 1532, the coastal areas of the kingdom were liable to pillage by Portuguese pirates.) He also worked to consolidate his rule, and was to face no opposition. Lords from around the kingdom came to pledge their allegiance on 16 September 1531 at the coronation ceremony at the new palace at Mrauk-U. According to chronicles, one notable absence at the coronation ceremony was Chittagong which had paid tribute to strong Arakanese kings Ba Saw Phyu (r. 1459–1482) and Dawlya (r. 1482–1492). Min Bin was determined to restore what he called his forebears' rightful realm, which according to him, included all of Bengal, not just Chittagong.\n</p><p>Acquisition of Bengal (1532–1533)\nIf his claim that all of Bengal belonged to ancient Arakanese kingdoms is unfounded, it was nonetheless used by Min Bin as the pretext to exploit the growing weakness of Bengal. The sultanate had been in long decline due to its wars with the Delhi Sultanate and the Ahom Kingdom. On 7 October 1532 (9th waxing of Tazaungmon 894 ME), he led a combined invasion force of 12,000 (three armies of 11,000 men in a three-pronged attack, and a flotilla of war boats carrying 1,000 troops), and invaded Bengal. According to Arakanese chronicles, the combined invasion force defeated an Bengal army of 10,000 men and took Chittagong. The armies then pressed on toward Dhaka on 1 December 1532 (5th waxing of Pyatho 894 ME). The Bengal army made a last stand outside Dhaka but was defeated. The sultan's defenses collapsed afterwards, and Arakanese forces entered Dhaka on 11 December 1532 (15th waxing of Pyatho 894 ME) without a fight. At Dhaka, on 8 February 1533 (Saturday, 15th waxing of Tabaung 894 ME), he received tributes from local lords of Bengal, and raised a 16-year-old princess of Bengal royalty to queen. He then paid a pilgrimage to Bodh Gaya on 26 March 1533 (2nd waxing of Kason 895 ME). He left Dhaka for Mrauk-U on 13 April 1533 (5th waning of Kason 895 ME). He appointed governors of the new acquired territories on 14 May 1533 (6th waning of Nayon 895 ME).\n</p><p>Tripuri raids\nAccording to historians, his control of Bengal beyond Chittagong, where coins bearing his name and styling him sultan were struck, was nominal. Like Bengal's sultans before him, he had to contend with raids by \"Tripuri tribes\" from the north throughout his reign, not just on Dhaka but also on Chittagong and Ramu. Within the year of his conquest of Bengal, he had to send a 5,000-strong army to Dhaka to defend against Tripuri raids. After the rainy season of 1533, he personally led the army to drive out the Tripuri raiders. He was successful, and returned to Mrauk-U on 24 February 1534 (12th waxing of Tabaung 895 ME). Despite the success this time, Min Bin never fully solved the problem of raids by Tripuris. Indeed, when Mrauk-U was under siege by Toungoo forces in 1547, Tripuri forces raided Chittagong and as far south as Ramu. Min Bin had to send a force to drive them out after Toungoo forces retreated.\n</p><p>Portuguese\nBy Min Bin's reign, the Portuguese seamen and mercenaries had established themselves as a serious force in Asia. They had seized trading ports of Goa since 1510 and Malacca since 1511, and controlled important sea lanes in South and Southeast Asia. The Arakanese coastline had not escaped their raids, which by Min Bin's reign, had grown increasingly daring. In 1535, the Portuguese brought war to the fortified capital of Mrauk-U itself. According to Arakanese chronicles, a small but well-armed army of Portuguese mercenaries landed on 22 February 1535, and advanced to up the Kaladan river by boats, reaching Kandaza, a few miles away from Mrauk-U, by 26 February. After defeating an Arakanese force at Kandaza on 27 February, the Portuguese then proceeded to attack Mrauk-U on 28 February. With the king himself leading the defense, the Arakanese forces drove back the better armed but much smaller Portuguese army. The Portuguese fell back to a few marches away, and stuck around for another week until a combined army and flotilla of Arakanese forces drove them out to the sea on 7 March.\n</p><p>Like many rulers in the region, Min Bin realized that the Portuguese problem was not going away, and decided to hire Portuguese mercenaries to his armed forces. In the following years, Min Bin enlisted many Portuguese mercenaries and their firearms, and with their help, he established well-armed naval and army forces.\n</p><p>Temple building\n</p><p>The Shitthaung Temple\nAfter the military successes, Min Bin began to regard himself \"as a world conqueror or cakravartin.\" To commemorate his victory in Bengal, he began the construction of a massive temple complex that would become the Shitthaung Temple (80,000 Buddha Images) on 9 November 1535 (Full moon of Tazaungmon 897 ME). The design incorporated \"elements from Burmese Buddhism and the late Buddhism of northwest India in its iconography, illustrating the power of the king and his religion.\" He also restored the Andaw-thein Ordination Hall between 1534 and 1542.\n</p><p>Wars with Toungoo\nProme (1542)\nMain article: Toungoo–Ava War (1538–45)\nBy the late 1530s, Min Bin had turned Mrauk-U into a serious regional power. Not only did he control the entire Arakan littoral to Chittagong but he also had built up a powerful navy and an army that included many Portuguese mercenaries. But he closely monitored the developments in mainland Burma with great concern, especially after Toungoo's unlikely victory over Hanthawaddy that gave upstart Toungoo control of Lower Burma. He did not want to see a strong, united Irrawaddy valley, which in the past had interfered with the coastal kingdom. When King Minkhaung of Prome, the only holdout in Lower Burma and a vassal of the Confederation of Shan States, asked for an alliance by presenting his sister, the former queen of Hanthawaddy, Min Bin readily agreed. When 17,000-strong Toungoo armies laid siege to Prome (Pyay) in November 1541, Min Bin in early 1542 sent a 5,000-man army through the Padaung Pass across the Arakan Yoma range, and a 7000-man, 700-boat flotilla by the coast to break the siege. However, the army, as it came out of the pass, walked into a trap, and was wiped out by a 6000-strong Toungoo army led by Gen. Kyawhtin Nawrahta. The navy had taken Pathein but retreated after hearing that the army had been annihilated.\n</p><p>Toungoo invasion (1545–1547)\n</p><p>Toungoo invasion routes (1546–47)\nMain article: Toungoo–Mrauk-U War (1545–47)\nAfter the setback, Min Bin reinforced the defenses of Mrauk-U and forts around the kingdom. History shows that his preparations proved prescient. In October 1545, four Toungoo regiments (4000 men, 100 horses, 10 elephants) intruded into southern Arakan, and marched toward Thandwe, Arakan's second city, which was led by the king's brother Min Aung Hla. On 12 October 1545 (8th waxing of Tazaungmon 907 ME), the king sent a well-armed force, which proceeded to drive out the intruders.\n</p><p>The incursion turned out to be an initial probe by Toungoo, which by then controlled all of Lower Burma and parts of Upper Burma to the ancient capital of Pagan. A year later, on 28 October 1546 (4th waxing of Tazaungmon 908 ME), Toungoo invaded by land and sea with a much larger force (19,000 men, 400 horses, 60 elephants, 80 war boats, 50 armored war boats, 10 cargo ships). Toungoo forces quickly overran southern Arakan. Mrauk-U's land and naval forces put up spirited stands but could not stop the advance. Toungoo forces reached environs of Launggyet, the former capital not far from Mrauk-U, on 23 January 1547 (2nd waxing of Tabodwe 908 ME). The next day, Toungoo forces began their final push, driving out the Mrauk-U army from Launggyet and surrounding the heavily fortified Arakanese capital. They even breached the eastern outworks of Mrauk-U but were flooded out when Min Bin opened the sluices of the city's reservoirs. Unwilling to pursue a long siege, Tabinshwehti agreed to a truce with Min Bin on 30 January. Toungoo forces began their retreat three days later, and evacuated Thandwe on 26 March 1547 (5th waxing of Late Tagu 908 ME). After the war, he sent a force to drive out Tripuri marauders who were pillaging Ramu and Chittagong districts.\n</p><p>Despite the truce with Toungoo, Min Bin remained very much concerned about the Toungoo threat for the remainder of his reign. He sent 3000 troops to aid King Sithu Kyawhtin of Ava, the enemy of Toungoo, put down rebellions.\n</p><p>Government\nHis eldest son Dikkha was the heir apparent throughout the reign. At his accession, Min Bin appointed his brother Min Aung Hla as governor of Thandwe (Sandoway), the second most important city in the kingdom. But he later appointed one of his sons, styled as Upayaza, at Thandwe. According to Burmese chronicles, Aung Hla was unhappy and sought help from Toungoo, which led to Toungoo's invasion (1545–1547). However Arakanese chronicles disagree that Aung Hla ever betrayed his brother.\n</p><p>Death\nMin Bin died on 11 January 1554 (8th waning of Tabodwe 915 ME). He was succeeded by heir-apparent Dikkha.\n</p><p>Notes\n[N 1]\nHe was born on a Saturday between 26 January 1493 and 23 March 1493. (Sandamala Linkara Vol. 2 1999: 35, 39, 48): He was born in 854 ME on a Saturday, and died in 915 ME, and a new king came to power on 8th waning of Tabodwe 915 ME (11 January 1554). It means he was born between 9th waning of Tabodwe 854 ME (26 January 1493) and the last day of 854 ME (28 March 1493). And since he was born on a Saturday, the possible dates of birth are: (26 January), (2, 9, 16, 23 February), (2, 9, 16, 23 March).\n[N 2]\nThe chronicle Rakhine Razawin Thit (Sandamala Linkara Vol. 2 1999: 29) says he came to power on Saturday, 1st waxing of Nayon 893 ME, which translates to Wednesday, 17 May 1531. The correct date should be Saturday, 11th waxing of Nayon 893 ME, which translates to Saturday, 27 May 1531.\n[N 3]\n(Sandamala Linkara Vol. 2 1999: 29) says he ascended to the new palace on Saturday, 2nd waxing of Thadingyut 893 ME, which translates to Wednesday, 13 September 1531. The more likely date is 5th waxing of Thadingyut 893 ME (Saturday, 16 September 1531) since the numbers \"2\" and \"5\" in Burmese are written in similar shapes.\n[N 4]\nAccording to chronicles (Sandamala Linkara Vol. 2 1999: 36–37) Min Bin claimed that all of Bengal was part of ancient Arakanese kingdoms, and that King Saw Mon had allowed the territories of Bengal to be under the rule of Bengal sultans for their help in getting Saw Mon regain the Arakanese throne. However, scholarship holds that Saw Mon was a vassal of Bengal. It was not just East Bengal but all of Arakan was tributary to Bengal. Moreover, the first Arakanese control over East Bengal most probably came in 1459 per (Phayre 1967: 78). Arakanese intrusions to other parts of Bengal came only under Min Bin.\n[N 5]\nChronicles (Sandamala Linkara Vol. 2 1999: 36–37) actually say an order of magnitude higher: 110,000-strong armies and a 10,000-strong navy. But per (Harvey 1925: 333–336), the troop numbers reported in Burmese chronicles should be taken an order of magnitude lower.\n[N 6]\n(Sandamala Linkara Vol. 2 1999: 31) says the Portuguese landed on Monday, 5th waxing of Tabaung 896 ME, which translates to Saturday, 6 February 1535. The date was probably 5th waning (not waxing as reported) of Tabaung 896 ME, which translates to Monday, 22 February 1535.\n[N 7]\n</p>\nThe Burmese encyclopedia Myanma Swezon Kyan (MSK 1970: 360) says he laid the foundation stone on Saturday, full moon of Tazaungmon 897 ME, which translates to Tuesday, 9 November 1535.</span>",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2023-07-28",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:AwngMyint_Twan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:AwngMyint Twan (page does not exist)\">AwngMyint Twan</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "pageid": 153515385,
+      "ns": 6,
+      "title": "File:(100 Feet Long Gautama Buddha Structure).jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 3835125,
+          "width": 4160,
+          "height": 2340,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg/1280px-%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 675,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg/3840px-%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg/1280px-%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 675,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg/3840px-%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:(100_Feet_Long_Gautama_Buddha_Structure).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153515385",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2024-10-03 23:17:55",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "(100 Feet Long Gautama Buddha Structure)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Images from Wiki Loves Monuments 2024|Uploaded via Campaign:wlm-bd|Statues of the Buddha reclining in Bangladesh|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2024 in Bangladesh",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "It's a 100 Feet Long Gautama Buddha Structure which is located in a Buddhist temple in Ramu,Cox's Bazar, Bangladesh.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2023-12-24 13:00:54",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:TASBIR_SOHAM\" title=\"User:TASBIR SOHAM\">TASBIR SOHAM</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "mime": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}
