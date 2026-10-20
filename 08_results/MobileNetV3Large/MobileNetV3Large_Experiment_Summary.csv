@@ -1,0 +1,2 @@
+Model,Dataset,Number_of_Classes,Train_Images,Validation_Images,Test_Images,Image_Size,Batch_Size,Stage1_Max_Epochs,Stage2_Max_Epochs,Test_Accuracy,Macro_Precision,Macro_Recall,Macro_F1,Weighted_F1
+MobileNetV3-Large,Chattogram Division Landmark Dataset,58,1488,321,328,224,32,8,12,0.4817073170731707,0.5206716176543762,0.4836206896551724,0.4714100836058239,0.47058987312305106
